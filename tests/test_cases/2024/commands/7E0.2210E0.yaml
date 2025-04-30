@@ -1,0 +1,64 @@
+command_id: 7E0.2210E0
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8076210E00000768B
+  expected_values:
+    AUDI_ODO: 30347
+    AUDI_ODO_2: 30347
+    AUDI_ODO_3: 30347
+- response: 7E8076210E00000768C
+  expected_values:
+    AUDI_ODO: 30348
+    AUDI_ODO_2: 30348
+    AUDI_ODO_3: 30348
+- response: 7E8076210E00000768D
+  expected_values:
+    AUDI_ODO: 30349
+    AUDI_ODO_2: 30349
+    AUDI_ODO_3: 30349
+- response: 7E8076210E00000768E
+  expected_values:
+    AUDI_ODO: 30350
+    AUDI_ODO_2: 30350
+    AUDI_ODO_3: 30350
+- response: 7E8076210E00000768F
+  expected_values:
+    AUDI_ODO: 30351
+    AUDI_ODO_2: 30351
+    AUDI_ODO_3: 30351
+- response: 7E8076210E000007690
+  expected_values:
+    AUDI_ODO: 30352
+    AUDI_ODO_2: 30352
+    AUDI_ODO_3: 30352
+- response: 7E8076210E000007691
+  expected_values:
+    AUDI_ODO: 30353
+    AUDI_ODO_2: 30353
+    AUDI_ODO_3: 30353
+- response: 7E8076210E000007692
+  expected_values:
+    AUDI_ODO: 30354
+    AUDI_ODO_2: 30354
+    AUDI_ODO_3: 30354
+- response: 7E8076210E000007693
+  expected_values:
+    AUDI_ODO: 30355
+    AUDI_ODO_2: 30355
+    AUDI_ODO_3: 30355
+- response: 7E8076210E000007694
+  expected_values:
+    AUDI_ODO: 30356
+    AUDI_ODO_2: 30356
+    AUDI_ODO_3: 30356
+- response: 7E8076210E000007695
+  expected_values:
+    AUDI_ODO: 30357
+    AUDI_ODO_2: 30357
+    AUDI_ODO_3: 30357
+- response: 7E8076210E000007696
+  expected_values:
+    AUDI_ODO: 30358
+    AUDI_ODO_2: 30358
+    AUDI_ODO_3: 30358

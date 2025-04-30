@@ -1,0 +1,24 @@
+command_id: 710.77A.222AB6
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    77A100A622AB600D700
+    77A21D707FD01AAAAAA
+  expected_values:
+    AUDI_RANGE: 215
+- response: |-
+    77A100A622AB600DC00
+    77A21DC07FD01AAAAAA
+  expected_values:
+    AUDI_RANGE: 220
+- response: |-
+    77A100A622AB600E100
+    77A21E107FD01AAAAAA
+  expected_values:
+    AUDI_RANGE: 225
+- response: |-
+    77A100A622AB600E600
+    77A21E607FD01AAAAAA
+  expected_values:
+    AUDI_RANGE: 230

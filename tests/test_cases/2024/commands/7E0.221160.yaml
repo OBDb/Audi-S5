@@ -1,0 +1,168 @@
+command_id: 7E0.221160
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80762116001CCB1A4
+  expected_values:
+    AUDI_ODO_2: 30192036
+    AUDI_ODO_HD: 30192036
+- response: 7E80762116001CCB1B1
+  expected_values:
+    AUDI_ODO_2: 30192049
+    AUDI_ODO_HD: 30192049
+- response: 7E80762116001CCB22D
+  expected_values:
+    AUDI_ODO_2: 30192173
+    AUDI_ODO_HD: 30192173
+- response: 7E80762116001CCB36F
+  expected_values:
+    AUDI_ODO_2: 30192495
+    AUDI_ODO_HD: 30192495
+- response: 7E80762116001CCB4A0
+  expected_values:
+    AUDI_ODO_2: 30192800
+    AUDI_ODO_HD: 30192800
+- response: 7E80762116001CCB5D6
+  expected_values:
+    AUDI_ODO_2: 30193110
+    AUDI_ODO_HD: 30193110
+- response: 7E80762116001CCB7B0
+  expected_values:
+    AUDI_ODO_2: 30193584
+    AUDI_ODO_HD: 30193584
+- response: 7E80762116001CCB9F3
+  expected_values:
+    AUDI_ODO_2: 30194163
+    AUDI_ODO_HD: 30194163
+- response: 7E80762116001CCBC58
+  expected_values:
+    AUDI_ODO_2: 30194776
+    AUDI_ODO_HD: 30194776
+- response: 7E80762116001CCBD84
+  expected_values:
+    AUDI_ODO_2: 30195076
+    AUDI_ODO_HD: 30195076
+- response: 7E80762116001CCBD85
+  expected_values:
+    AUDI_ODO_2: 30195077
+    AUDI_ODO_HD: 30195077
+- response: 7E80762116001CCBF09
+  expected_values:
+    AUDI_ODO_2: 30195465
+    AUDI_ODO_HD: 30195465
+- response: 7E80762116001CCBF0B
+  expected_values:
+    AUDI_ODO_2: 30195467
+    AUDI_ODO_HD: 30195467
+- response: 7E80762116001CCC0BA
+  expected_values:
+    AUDI_ODO_2: 30195898
+    AUDI_ODO_HD: 30195898
+- response: 7E80762116001CCC363
+  expected_values:
+    AUDI_ODO_2: 30196579
+    AUDI_ODO_HD: 30196579
+- response: 7E80762116001CCC50A
+  expected_values:
+    AUDI_ODO_2: 30197002
+    AUDI_ODO_HD: 30197002
+- response: 7E80762116001CCC62E
+  expected_values:
+    AUDI_ODO_2: 30197294
+    AUDI_ODO_HD: 30197294
+- response: 7E80762116001CCC839
+  expected_values:
+    AUDI_ODO_2: 30197817
+    AUDI_ODO_HD: 30197817
+- response: 7E80762116001CCC98C
+  expected_values:
+    AUDI_ODO_2: 30198156
+    AUDI_ODO_HD: 30198156
+- response: 7E80762116001CCCABC
+  expected_values:
+    AUDI_ODO_2: 30198460
+    AUDI_ODO_HD: 30198460
+- response: 7E80762116001CCCD08
+  expected_values:
+    AUDI_ODO_2: 30199048
+    AUDI_ODO_HD: 30199048
+- response: 7E80762116001CCCE2B
+  expected_values:
+    AUDI_ODO_2: 30199339
+    AUDI_ODO_HD: 30199339
+- response: 7E80762116001CCCFCC
+  expected_values:
+    AUDI_ODO_2: 30199756
+    AUDI_ODO_HD: 30199756
+- response: 7E80762116001CCD182
+  expected_values:
+    AUDI_ODO_2: 30200194
+    AUDI_ODO_HD: 30200194
+- response: 7E80762116001CCD2C9
+  expected_values:
+    AUDI_ODO_2: 30200521
+    AUDI_ODO_HD: 30200521
+- response: 7E80762116001CCD3CA
+  expected_values:
+    AUDI_ODO_2: 30200778
+    AUDI_ODO_HD: 30200778
+- response: 7E80762116001CCD4B1
+  expected_values:
+    AUDI_ODO_2: 30201009
+    AUDI_ODO_HD: 30201009
+- response: 7E80762116001CCD5A2
+  expected_values:
+    AUDI_ODO_2: 30201250
+    AUDI_ODO_HD: 30201250
+- response: 7E80762116001CCD67B
+  expected_values:
+    AUDI_ODO_2: 30201467
+    AUDI_ODO_HD: 30201467
+- response: 7E80762116001CCD6A9
+  expected_values:
+    AUDI_ODO_2: 30201513
+    AUDI_ODO_HD: 30201513
+- response: 7E80762116001CCD739
+  expected_values:
+    AUDI_ODO_2: 30201657
+    AUDI_ODO_HD: 30201657
+- response: 7E80762116001CCD782
+  expected_values:
+    AUDI_ODO_2: 30201730
+    AUDI_ODO_HD: 30201730
+- response: 7E80762116001CCD7CF
+  expected_values:
+    AUDI_ODO_2: 30201807
+    AUDI_ODO_HD: 30201807
+- response: 7E80762116001CCD8BD
+  expected_values:
+    AUDI_ODO_2: 30202045
+    AUDI_ODO_HD: 30202045
+- response: 7E80762116001CCD934
+  expected_values:
+    AUDI_ODO_2: 30202164
+    AUDI_ODO_HD: 30202164
+- response: 7E80762116001CCD939
+  expected_values:
+    AUDI_ODO_2: 30202169
+    AUDI_ODO_HD: 30202169
+- response: 7E80762116001CCD980
+  expected_values:
+    AUDI_ODO_2: 30202240
+    AUDI_ODO_HD: 30202240
+- response: 7E80762116001CCDA21
+  expected_values:
+    AUDI_ODO_2: 30202401
+    AUDI_ODO_HD: 30202401
+- response: 7E80762116001CCDAB1
+  expected_values:
+    AUDI_ODO_2: 30202545
+    AUDI_ODO_HD: 30202545
+- response: 7E80762116001CCDAF6
+  expected_values:
+    AUDI_ODO_2: 30202614
+    AUDI_ODO_HD: 30202614
+- response: 7E80762116001CCDAFE
+  expected_values:
+    AUDI_ODO_2: 30202622
+    AUDI_ODO_HD: 30202622
