@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation (8T)"
+    start_year: 2007
+    end_year: 2016
+    description: "The original Audi S5 was based on the first-generation A5 platform, initially featuring a naturally aspirated 4.2L V8 engine producing 354 HP in the coupe, while the later introduced cabriolet and sportback variants received a supercharged 3.0L V6. The coupe was also updated to the V6 with its 2012 facelift. Transmission options included a six-speed manual or automatic for the V8, and a seven-speed S tronic dual-clutch for the V6. The S5 featured distinctive styling with subtle S-specific enhancements, including aluminum-look mirror caps, quad exhaust tips, and unique wheels. The first-generation S5 was praised for its balance of performance, luxury, and striking design."
+
+  - name: "Second Generation (F5)"
+    start_year: 2016
+    end_year: null
+    description: "Based on the second-generation A5 platform, the current S5 features a turbocharged 3.0L V6 engine producing 349 HP (later 341 HP in some markets), paired with an eight-speed automatic transmission and quattro all-wheel drive. Available in coupe, sportback, and cabriolet body styles, it features more aggressive styling than its predecessor with sharper lines and more pronounced details. The interior blends performance-oriented features with Audi's latest technology including the Virtual Cockpit digital instrument cluster. A facelift in 2019 updated the styling with a wider, flatter grille and revised details. The second-generation S5 continues to offer an appealing combination of performance, luxury, and distinctive styling across all three body variants, positioned between the standard A5 and the high-performance RS5."
