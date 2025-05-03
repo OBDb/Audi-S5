@@ -2,6 +2,39 @@ command_id: 714.77E.221014
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 77E046210148E
+  expected_values:
+    AUDI_AAT: 92
+- response: 77E046210148F
+  expected_values:
+    AUDI_AAT: 93
+- response: '77E0462101491'
+  expected_values:
+    AUDI_AAT: 95
+- response: '77E0462101492'
+  expected_values:
+    AUDI_AAT: 96
+- response: '77E0462101493'
+  expected_values:
+    AUDI_AAT: 97
+- response: '77E0462101494'
+  expected_values:
+    AUDI_AAT: 98
+- response: '77E0462101496'
+  expected_values:
+    AUDI_AAT: 100
+- response: '77E0462101497'
+  expected_values:
+    AUDI_AAT: 101
+- response: '77E0462101498'
+  expected_values:
+    AUDI_AAT: 102
+- response: '77E0462101499'
+  expected_values:
+    AUDI_AAT: 103
+- response: 77E046210149A
+  expected_values:
+    AUDI_AAT: 104
 - response: 77E046210149B
   expected_values:
     AUDI_AAT: 105
@@ -14,3 +47,24 @@ test_cases:
 - response: 77E046210149E
   expected_values:
     AUDI_AAT: 108
+- response: 77E046210149F
+  expected_values:
+    AUDI_AAT: 109
+- response: 77E04621014A0
+  expected_values:
+    AUDI_AAT: 110
+- response: 77E04621014A1
+  expected_values:
+    AUDI_AAT: 111
+- response: 77E04621014A2
+  expected_values:
+    AUDI_AAT: 112
+- response: 77E04621014A3
+  expected_values:
+    AUDI_AAT: 113
+- response: 77E04621014A4
+  expected_values:
+    AUDI_AAT: 114
+- response: 77E04621014A5
+  expected_values:
+    AUDI_AAT: 115

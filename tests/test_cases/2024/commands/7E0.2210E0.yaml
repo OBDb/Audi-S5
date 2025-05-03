@@ -62,3 +62,558 @@ test_cases:
     AUDI_ODO: 30358
     AUDI_ODO_2: 30358
     AUDI_ODO_3: 30358
+- response: 7E8076210E0000076A0
+  expected_values:
+    AUDI_ODO: 30368
+    AUDI_ODO_2: 30368
+    AUDI_ODO_3: 30368
+- response: 7E8076210E0000076A1
+  expected_values:
+    AUDI_ODO: 30369
+    AUDI_ODO_2: 30369
+    AUDI_ODO_3: 30369
+- response: 7E8076210E0000076A2
+  expected_values:
+    AUDI_ODO: 30370
+    AUDI_ODO_2: 30370
+    AUDI_ODO_3: 30370
+- response: 7E8076210E0000076A3
+  expected_values:
+    AUDI_ODO: 30371
+    AUDI_ODO_2: 30371
+    AUDI_ODO_3: 30371
+- response: 7E8076210E0000076A4
+  expected_values:
+    AUDI_ODO: 30372
+    AUDI_ODO_2: 30372
+    AUDI_ODO_3: 30372
+- response: 7E8076210E0000076A5
+  expected_values:
+    AUDI_ODO: 30373
+    AUDI_ODO_2: 30373
+    AUDI_ODO_3: 30373
+- response: 7E8076210E0000076A6
+  expected_values:
+    AUDI_ODO: 30374
+    AUDI_ODO_2: 30374
+    AUDI_ODO_3: 30374
+- response: 7E8076210E0000076A7
+  expected_values:
+    AUDI_ODO: 30375
+    AUDI_ODO_2: 30375
+    AUDI_ODO_3: 30375
+- response: 7E8076210E0000076A8
+  expected_values:
+    AUDI_ODO: 30376
+    AUDI_ODO_2: 30376
+    AUDI_ODO_3: 30376
+- response: 7E8076210E0000076A9
+  expected_values:
+    AUDI_ODO: 30377
+    AUDI_ODO_2: 30377
+    AUDI_ODO_3: 30377
+- response: 7E8076210E0000076AA
+  expected_values:
+    AUDI_ODO: 30378
+    AUDI_ODO_2: 30378
+    AUDI_ODO_3: 30378
+- response: 7E8076210E0000076AB
+  expected_values:
+    AUDI_ODO: 30379
+    AUDI_ODO_2: 30379
+    AUDI_ODO_3: 30379
+- response: 7E8076210E0000076AC
+  expected_values:
+    AUDI_ODO: 30380
+    AUDI_ODO_2: 30380
+    AUDI_ODO_3: 30380
+- response: 7E8076210E0000076AD
+  expected_values:
+    AUDI_ODO: 30381
+    AUDI_ODO_2: 30381
+    AUDI_ODO_3: 30381
+- response: 7E8076210E0000076AE
+  expected_values:
+    AUDI_ODO: 30382
+    AUDI_ODO_2: 30382
+    AUDI_ODO_3: 30382
+- response: 7E8076210E0000076AF
+  expected_values:
+    AUDI_ODO: 30383
+    AUDI_ODO_2: 30383
+    AUDI_ODO_3: 30383
+- response: 7E8076210E0000076B0
+  expected_values:
+    AUDI_ODO: 30384
+    AUDI_ODO_2: 30384
+    AUDI_ODO_3: 30384
+- response: 7E8076210E0000076B1
+  expected_values:
+    AUDI_ODO: 30385
+    AUDI_ODO_2: 30385
+    AUDI_ODO_3: 30385
+- response: 7E8076210E0000076B2
+  expected_values:
+    AUDI_ODO: 30386
+    AUDI_ODO_2: 30386
+    AUDI_ODO_3: 30386
+- response: 7E8076210E0000076B3
+  expected_values:
+    AUDI_ODO: 30387
+    AUDI_ODO_2: 30387
+    AUDI_ODO_3: 30387
+- response: 7E8076210E0000076B4
+  expected_values:
+    AUDI_ODO: 30388
+    AUDI_ODO_2: 30388
+    AUDI_ODO_3: 30388
+- response: 7E8076210E0000076B5
+  expected_values:
+    AUDI_ODO: 30389
+    AUDI_ODO_2: 30389
+    AUDI_ODO_3: 30389
+- response: 7E8076210E0000076B6
+  expected_values:
+    AUDI_ODO: 30390
+    AUDI_ODO_2: 30390
+    AUDI_ODO_3: 30390
+- response: 7E8076210E0000076B7
+  expected_values:
+    AUDI_ODO: 30391
+    AUDI_ODO_2: 30391
+    AUDI_ODO_3: 30391
+- response: 7E8076210E0000076B8
+  expected_values:
+    AUDI_ODO: 30392
+    AUDI_ODO_2: 30392
+    AUDI_ODO_3: 30392
+- response: 7E8076210E0000076B9
+  expected_values:
+    AUDI_ODO: 30393
+    AUDI_ODO_2: 30393
+    AUDI_ODO_3: 30393
+- response: 7E8076210E0000076BA
+  expected_values:
+    AUDI_ODO: 30394
+    AUDI_ODO_2: 30394
+    AUDI_ODO_3: 30394
+- response: 7E8076210E0000076BB
+  expected_values:
+    AUDI_ODO: 30395
+    AUDI_ODO_2: 30395
+    AUDI_ODO_3: 30395
+- response: 7E8076210E0000076BC
+  expected_values:
+    AUDI_ODO: 30396
+    AUDI_ODO_2: 30396
+    AUDI_ODO_3: 30396
+- response: 7E8076210E0000076BD
+  expected_values:
+    AUDI_ODO: 30397
+    AUDI_ODO_2: 30397
+    AUDI_ODO_3: 30397
+- response: 7E8076210E0000076BE
+  expected_values:
+    AUDI_ODO: 30398
+    AUDI_ODO_2: 30398
+    AUDI_ODO_3: 30398
+- response: 7E8076210E0000076BF
+  expected_values:
+    AUDI_ODO: 30399
+    AUDI_ODO_2: 30399
+    AUDI_ODO_3: 30399
+- response: 7E8076210E0000076C0
+  expected_values:
+    AUDI_ODO: 30400
+    AUDI_ODO_2: 30400
+    AUDI_ODO_3: 30400
+- response: 7E8076210E0000076C1
+  expected_values:
+    AUDI_ODO: 30401
+    AUDI_ODO_2: 30401
+    AUDI_ODO_3: 30401
+- response: 7E8076210E0000076C2
+  expected_values:
+    AUDI_ODO: 30402
+    AUDI_ODO_2: 30402
+    AUDI_ODO_3: 30402
+- response: 7E8076210E0000076C3
+  expected_values:
+    AUDI_ODO: 30403
+    AUDI_ODO_2: 30403
+    AUDI_ODO_3: 30403
+- response: 7E8076210E0000076E1
+  expected_values:
+    AUDI_ODO: 30433
+    AUDI_ODO_2: 30433
+    AUDI_ODO_3: 30433
+- response: 7E8076210E0000076E2
+  expected_values:
+    AUDI_ODO: 30434
+    AUDI_ODO_2: 30434
+    AUDI_ODO_3: 30434
+- response: 7E8076210E0000076E3
+  expected_values:
+    AUDI_ODO: 30435
+    AUDI_ODO_2: 30435
+    AUDI_ODO_3: 30435
+- response: 7E8076210E0000076E4
+  expected_values:
+    AUDI_ODO: 30436
+    AUDI_ODO_2: 30436
+    AUDI_ODO_3: 30436
+- response: 7E8076210E0000076E5
+  expected_values:
+    AUDI_ODO: 30437
+    AUDI_ODO_2: 30437
+    AUDI_ODO_3: 30437
+- response: 7E8076210E00000772A
+  expected_values:
+    AUDI_ODO: 30506
+    AUDI_ODO_2: 30506
+    AUDI_ODO_3: 30506
+- response: 7E8076210E00000772B
+  expected_values:
+    AUDI_ODO: 30507
+    AUDI_ODO_2: 30507
+    AUDI_ODO_3: 30507
+- response: 7E8076210E00000772C
+  expected_values:
+    AUDI_ODO: 30508
+    AUDI_ODO_2: 30508
+    AUDI_ODO_3: 30508
+- response: 7E8076210E00000772D
+  expected_values:
+    AUDI_ODO: 30509
+    AUDI_ODO_2: 30509
+    AUDI_ODO_3: 30509
+- response: 7E8076210E00000772E
+  expected_values:
+    AUDI_ODO: 30510
+    AUDI_ODO_2: 30510
+    AUDI_ODO_3: 30510
+- response: 7E8076210E00000772F
+  expected_values:
+    AUDI_ODO: 30511
+    AUDI_ODO_2: 30511
+    AUDI_ODO_3: 30511
+- response: 7E8076210E000007730
+  expected_values:
+    AUDI_ODO: 30512
+    AUDI_ODO_2: 30512
+    AUDI_ODO_3: 30512
+- response: 7E8076210E000007731
+  expected_values:
+    AUDI_ODO: 30513
+    AUDI_ODO_2: 30513
+    AUDI_ODO_3: 30513
+- response: 7E8076210E000007732
+  expected_values:
+    AUDI_ODO: 30514
+    AUDI_ODO_2: 30514
+    AUDI_ODO_3: 30514
+- response: 7E8076210E000007733
+  expected_values:
+    AUDI_ODO: 30515
+    AUDI_ODO_2: 30515
+    AUDI_ODO_3: 30515
+- response: 7E8076210E000007734
+  expected_values:
+    AUDI_ODO: 30516
+    AUDI_ODO_2: 30516
+    AUDI_ODO_3: 30516
+- response: 7E8076210E000007735
+  expected_values:
+    AUDI_ODO: 30517
+    AUDI_ODO_2: 30517
+    AUDI_ODO_3: 30517
+- response: 7E8076210E000007736
+  expected_values:
+    AUDI_ODO: 30518
+    AUDI_ODO_2: 30518
+    AUDI_ODO_3: 30518
+- response: 7E8076210E000007737
+  expected_values:
+    AUDI_ODO: 30519
+    AUDI_ODO_2: 30519
+    AUDI_ODO_3: 30519
+- response: 7E8076210E000007738
+  expected_values:
+    AUDI_ODO: 30520
+    AUDI_ODO_2: 30520
+    AUDI_ODO_3: 30520
+- response: 7E8076210E000007739
+  expected_values:
+    AUDI_ODO: 30521
+    AUDI_ODO_2: 30521
+    AUDI_ODO_3: 30521
+- response: 7E8076210E00000773A
+  expected_values:
+    AUDI_ODO: 30522
+    AUDI_ODO_2: 30522
+    AUDI_ODO_3: 30522
+- response: 7E8076210E00000773B
+  expected_values:
+    AUDI_ODO: 30523
+    AUDI_ODO_2: 30523
+    AUDI_ODO_3: 30523
+- response: 7E8076210E00000773C
+  expected_values:
+    AUDI_ODO: 30524
+    AUDI_ODO_2: 30524
+    AUDI_ODO_3: 30524
+- response: 7E8076210E00000773D
+  expected_values:
+    AUDI_ODO: 30525
+    AUDI_ODO_2: 30525
+    AUDI_ODO_3: 30525
+- response: 7E8076210E00000773E
+  expected_values:
+    AUDI_ODO: 30526
+    AUDI_ODO_2: 30526
+    AUDI_ODO_3: 30526
+- response: 7E8076210E00000773F
+  expected_values:
+    AUDI_ODO: 30527
+    AUDI_ODO_2: 30527
+    AUDI_ODO_3: 30527
+- response: 7E8076210E000007740
+  expected_values:
+    AUDI_ODO: 30528
+    AUDI_ODO_2: 30528
+    AUDI_ODO_3: 30528
+- response: 7E8076210E000007741
+  expected_values:
+    AUDI_ODO: 30529
+    AUDI_ODO_2: 30529
+    AUDI_ODO_3: 30529
+- response: 7E8076210E000007742
+  expected_values:
+    AUDI_ODO: 30530
+    AUDI_ODO_2: 30530
+    AUDI_ODO_3: 30530
+- response: 7E8076210E000007743
+  expected_values:
+    AUDI_ODO: 30531
+    AUDI_ODO_2: 30531
+    AUDI_ODO_3: 30531
+- response: 7E8076210E000007744
+  expected_values:
+    AUDI_ODO: 30532
+    AUDI_ODO_2: 30532
+    AUDI_ODO_3: 30532
+- response: 7E8076210E000007745
+  expected_values:
+    AUDI_ODO: 30533
+    AUDI_ODO_2: 30533
+    AUDI_ODO_3: 30533
+- response: 7E8076210E000007746
+  expected_values:
+    AUDI_ODO: 30534
+    AUDI_ODO_2: 30534
+    AUDI_ODO_3: 30534
+- response: 7E8076210E000007747
+  expected_values:
+    AUDI_ODO: 30535
+    AUDI_ODO_2: 30535
+    AUDI_ODO_3: 30535
+- response: 7E8076210E000007748
+  expected_values:
+    AUDI_ODO: 30536
+    AUDI_ODO_2: 30536
+    AUDI_ODO_3: 30536
+- response: 7E8076210E000007749
+  expected_values:
+    AUDI_ODO: 30537
+    AUDI_ODO_2: 30537
+    AUDI_ODO_3: 30537
+- response: 7E8076210E00000774A
+  expected_values:
+    AUDI_ODO: 30538
+    AUDI_ODO_2: 30538
+    AUDI_ODO_3: 30538
+- response: 7E8076210E00000774B
+  expected_values:
+    AUDI_ODO: 30539
+    AUDI_ODO_2: 30539
+    AUDI_ODO_3: 30539
+- response: 7E8076210E00000774C
+  expected_values:
+    AUDI_ODO: 30540
+    AUDI_ODO_2: 30540
+    AUDI_ODO_3: 30540
+- response: 7E8076210E00000774D
+  expected_values:
+    AUDI_ODO: 30541
+    AUDI_ODO_2: 30541
+    AUDI_ODO_3: 30541
+- response: 7E8076210E00000774E
+  expected_values:
+    AUDI_ODO: 30542
+    AUDI_ODO_2: 30542
+    AUDI_ODO_3: 30542
+- response: 7E8076210E00000774F
+  expected_values:
+    AUDI_ODO: 30543
+    AUDI_ODO_2: 30543
+    AUDI_ODO_3: 30543
+- response: 7E8076210E000007750
+  expected_values:
+    AUDI_ODO: 30544
+    AUDI_ODO_2: 30544
+    AUDI_ODO_3: 30544
+- response: 7E8076210E000007751
+  expected_values:
+    AUDI_ODO: 30545
+    AUDI_ODO_2: 30545
+    AUDI_ODO_3: 30545
+- response: 7E8076210E000007752
+  expected_values:
+    AUDI_ODO: 30546
+    AUDI_ODO_2: 30546
+    AUDI_ODO_3: 30546
+- response: 7E8076210E000007753
+  expected_values:
+    AUDI_ODO: 30547
+    AUDI_ODO_2: 30547
+    AUDI_ODO_3: 30547
+- response: 7E8076210E000007754
+  expected_values:
+    AUDI_ODO: 30548
+    AUDI_ODO_2: 30548
+    AUDI_ODO_3: 30548
+- response: 7E8076210E000007755
+  expected_values:
+    AUDI_ODO: 30549
+    AUDI_ODO_2: 30549
+    AUDI_ODO_3: 30549
+- response: 7E8076210E000007756
+  expected_values:
+    AUDI_ODO: 30550
+    AUDI_ODO_2: 30550
+    AUDI_ODO_3: 30550
+- response: 7E8076210E000007757
+  expected_values:
+    AUDI_ODO: 30551
+    AUDI_ODO_2: 30551
+    AUDI_ODO_3: 30551
+- response: 7E8076210E000007758
+  expected_values:
+    AUDI_ODO: 30552
+    AUDI_ODO_2: 30552
+    AUDI_ODO_3: 30552
+- response: 7E8076210E000007759
+  expected_values:
+    AUDI_ODO: 30553
+    AUDI_ODO_2: 30553
+    AUDI_ODO_3: 30553
+- response: 7E8076210E00000775A
+  expected_values:
+    AUDI_ODO: 30554
+    AUDI_ODO_2: 30554
+    AUDI_ODO_3: 30554
+- response: 7E8076210E00000775B
+  expected_values:
+    AUDI_ODO: 30555
+    AUDI_ODO_2: 30555
+    AUDI_ODO_3: 30555
+- response: 7E8076210E00000775C
+  expected_values:
+    AUDI_ODO: 30556
+    AUDI_ODO_2: 30556
+    AUDI_ODO_3: 30556
+- response: 7E8076210E00000775D
+  expected_values:
+    AUDI_ODO: 30557
+    AUDI_ODO_2: 30557
+    AUDI_ODO_3: 30557
+- response: 7E8076210E00000775E
+  expected_values:
+    AUDI_ODO: 30558
+    AUDI_ODO_2: 30558
+    AUDI_ODO_3: 30558
+- response: 7E8076210E00000775F
+  expected_values:
+    AUDI_ODO: 30559
+    AUDI_ODO_2: 30559
+    AUDI_ODO_3: 30559
+- response: 7E8076210E000007760
+  expected_values:
+    AUDI_ODO: 30560
+    AUDI_ODO_2: 30560
+    AUDI_ODO_3: 30560
+- response: 7E8076210E000007761
+  expected_values:
+    AUDI_ODO: 30561
+    AUDI_ODO_2: 30561
+    AUDI_ODO_3: 30561
+- response: 7E8076210E000007762
+  expected_values:
+    AUDI_ODO: 30562
+    AUDI_ODO_2: 30562
+    AUDI_ODO_3: 30562
+- response: 7E8076210E000007763
+  expected_values:
+    AUDI_ODO: 30563
+    AUDI_ODO_2: 30563
+    AUDI_ODO_3: 30563
+- response: 7E8076210E000007764
+  expected_values:
+    AUDI_ODO: 30564
+    AUDI_ODO_2: 30564
+    AUDI_ODO_3: 30564
+- response: 7E8076210E000007765
+  expected_values:
+    AUDI_ODO: 30565
+    AUDI_ODO_2: 30565
+    AUDI_ODO_3: 30565
+- response: 7E8076210E000007766
+  expected_values:
+    AUDI_ODO: 30566
+    AUDI_ODO_2: 30566
+    AUDI_ODO_3: 30566
+- response: 7E8076210E000007767
+  expected_values:
+    AUDI_ODO: 30567
+    AUDI_ODO_2: 30567
+    AUDI_ODO_3: 30567
+- response: 7E8076210E000007768
+  expected_values:
+    AUDI_ODO: 30568
+    AUDI_ODO_2: 30568
+    AUDI_ODO_3: 30568
+- response: 7E8076210E000007769
+  expected_values:
+    AUDI_ODO: 30569
+    AUDI_ODO_2: 30569
+    AUDI_ODO_3: 30569
+- response: 7E8076210E00000776A
+  expected_values:
+    AUDI_ODO: 30570
+    AUDI_ODO_2: 30570
+    AUDI_ODO_3: 30570
+- response: 7E8076210E00000776B
+  expected_values:
+    AUDI_ODO: 30571
+    AUDI_ODO_2: 30571
+    AUDI_ODO_3: 30571
+- response: 7E8076210E00000776C
+  expected_values:
+    AUDI_ODO: 30572
+    AUDI_ODO_2: 30572
+    AUDI_ODO_3: 30572
+- response: 7E8076210E00000776D
+  expected_values:
+    AUDI_ODO: 30573
+    AUDI_ODO_2: 30573
+    AUDI_ODO_3: 30573
+- response: 7E8076210E00000776E
+  expected_values:
+    AUDI_ODO: 30574
+    AUDI_ODO_2: 30574
+    AUDI_ODO_3: 30574
+- response: 7E8076210E00000776F
+  expected_values:
+    AUDI_ODO: 30575
+    AUDI_ODO_2: 30575
+    AUDI_ODO_3: 30575
