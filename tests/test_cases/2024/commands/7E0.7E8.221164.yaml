@@ -4,4 +4,4 @@ extended_addressing_enabled: false
 test_cases:
 - response: '7E8056211640000'
   expected_values:
-    AUDI_HVBAT_SOC_DISP: 0
+    AUDI_HVBAT_SOC_DISP_V2: 0
