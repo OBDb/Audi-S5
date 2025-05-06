@@ -59,12 +59,18 @@ test_cases:
 - response: 7E8056211BD0D6C
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.3744
+- response: 7E8056211BD0D7D
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.3812
 - response: 7E8056211BD0D85
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.3844
 - response: 7E8056211BD0D8A
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.3864
+- response: 7E8056211BD0D8E
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.388
 - response: 7E8056211BD0D92
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.3896
@@ -77,9 +83,18 @@ test_cases:
 - response: 7E8056211BD0DA7
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.398
+- response: 7E8056211BD0DAF
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4012
 - response: 7E8056211BD0DB3
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4028
+- response: 7E8056211BD0DB7
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4044
+- response: 7E8056211BD0DC8
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4112
 - response: 7E8056211BD0DCC
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4128
@@ -98,6 +113,9 @@ test_cases:
 - response: 7E8056211BD0DE9
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4244
+- response: 7E8056211BD0DF2
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.428
 - response: 7E8056211BD0DF6
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4296
@@ -116,6 +134,9 @@ test_cases:
 - response: 7E8056211BD0E0F
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4396
+- response: 7E8056211BD0E17
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4428
 - response: 7E8056211BD0E1B
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4444
@@ -131,12 +152,27 @@ test_cases:
 - response: 7E8056211BD0E2C
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4512
+- response: 7E8056211BD0E30
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4528
+- response: 7E8056211BD0E34
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4544
 - response: 7E8056211BD0E39
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4564
 - response: 7E8056211BD0E3D
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.458
+- response: 7E8056211BD0E41
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4596
+- response: 7E8056211BD0E45
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4612
+- response: 7E8056211BD0E49
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4628
 - response: 7E8056211BD0E4D
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4644
@@ -170,6 +206,9 @@ test_cases:
 - response: 7E8056211BD0E77
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4812
+- response: 7E8056211BD0E7B
+  expected_values:
+    AUDI_OIL_LEVEL_WARN: 1.4828
 - response: 7E8056211BD0E7F
   expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4844

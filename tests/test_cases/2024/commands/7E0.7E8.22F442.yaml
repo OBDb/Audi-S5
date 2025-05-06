@@ -2,12 +2,30 @@ command_id: 7E0.7E8.22F442
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E80562F4422DA0
+  expected_values:
+    AUDI_VPWR: 11.68
 - response: 7E80562F4422F1C
   expected_values:
     AUDI_VPWR: 12.06
+- response: 7E80562F4422F30
+  expected_values:
+    AUDI_VPWR: 12.08
+- response: 7E80562F4422F44
+  expected_values:
+    AUDI_VPWR: 12.1
 - response: 7E80562F4422F58
   expected_values:
     AUDI_VPWR: 12.12
+- response: 7E80562F4422F6C
+  expected_values:
+    AUDI_VPWR: 12.14
+- response: 7E80562F4422F80
+  expected_values:
+    AUDI_VPWR: 12.16
+- response: 7E80562F4422F94
+  expected_values:
+    AUDI_VPWR: 12.18
 - response: 7E80562F4422FA8
   expected_values:
     AUDI_VPWR: 12.2
@@ -17,6 +35,12 @@ test_cases:
 - response: 7E80562F4423020
   expected_values:
     AUDI_VPWR: 12.32
+- response: 7E80562F44230AC
+  expected_values:
+    AUDI_VPWR: 12.46
+- response: 7E80562F44230C0
+  expected_values:
+    AUDI_VPWR: 12.48
 - response: 7E80562F4423110
   expected_values:
     AUDI_VPWR: 12.56
@@ -164,12 +188,21 @@ test_cases:
 - response: 7E80562F44237C8
   expected_values:
     AUDI_VPWR: 14.28
+- response: 7E80562F442382C
+  expected_values:
+    AUDI_VPWR: 14.38
 - response: 7E80562F44238B8
   expected_values:
     AUDI_VPWR: 14.52
+- response: 7E80562F44238CC
+  expected_values:
+    AUDI_VPWR: 14.54
 - response: 7E80562F44238E0
   expected_values:
     AUDI_VPWR: 14.56
+- response: 7E80562F44238F4
+  expected_values:
+    AUDI_VPWR: 14.58
 - response: 7E80562F4423930
   expected_values:
     AUDI_VPWR: 14.64
@@ -194,9 +227,18 @@ test_cases:
 - response: 7E80562F44239F8
   expected_values:
     AUDI_VPWR: 14.84
+- response: 7E80562F4423A0C
+  expected_values:
+    AUDI_VPWR: 14.86
 - response: 7E80562F4423A20
   expected_values:
     AUDI_VPWR: 14.88
+- response: 7E80562F4423A5C
+  expected_values:
+    AUDI_VPWR: 14.94
+- response: 7E80562F4423A70
+  expected_values:
+    AUDI_VPWR: 14.96
 - response: 7E80562F4423A84
   expected_values:
     AUDI_VPWR: 14.98

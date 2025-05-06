@@ -38,6 +38,9 @@ test_cases:
 - response: 7E8056211BA37C7
   expected_values:
     AUDI_OIL_LEVEL: 57.116
+- response: 7E8056211BA37E8
+  expected_values:
+    AUDI_OIL_LEVEL: 57.248
 - response: 7E8056211BA3810
   expected_values:
     AUDI_OIL_LEVEL: 57.408
@@ -65,6 +68,9 @@ test_cases:
 - response: 7E8056211BA3B3D
   expected_values:
     AUDI_OIL_LEVEL: 60.66
+- response: 7E8056211BA3B68
+  expected_values:
+    AUDI_OIL_LEVEL: 60.832
 - response: 7E8056211BA3B8C
   expected_values:
     AUDI_OIL_LEVEL: 60.976
@@ -89,6 +95,9 @@ test_cases:
 - response: 7E8056211BA3D49
   expected_values:
     AUDI_OIL_LEVEL: 62.756
+- response: 7E8056211BA3D66
+  expected_values:
+    AUDI_OIL_LEVEL: 62.872
 - response: 7E8056211BA3D73
   expected_values:
     AUDI_OIL_LEVEL: 62.924
@@ -104,6 +113,9 @@ test_cases:
 - response: 7E8056211BA3E7E
   expected_values:
     AUDI_OIL_LEVEL: 63.992
+- response: 7E8056211BA3E95
+  expected_values:
+    AUDI_OIL_LEVEL: 64.084
 - response: 7E8056211BA3E9F
   expected_values:
     AUDI_OIL_LEVEL: 64.124
@@ -152,6 +164,9 @@ test_cases:
 - response: 7E8056211BA404E
   expected_values:
     AUDI_OIL_LEVEL: 65.848
+- response: 7E8056211BA4058
+  expected_values:
+    AUDI_OIL_LEVEL: 65.888
 - response: 7E8056211BA4079
   expected_values:
     AUDI_OIL_LEVEL: 66.02
@@ -179,6 +194,9 @@ test_cases:
 - response: 7E8056211BA40D6
   expected_values:
     AUDI_OIL_LEVEL: 66.392
+- response: 7E8056211BA40F4
+  expected_values:
+    AUDI_OIL_LEVEL: 66.512
 - response: 7E8056211BA40F8
   expected_values:
     AUDI_OIL_LEVEL: 66.528
@@ -191,9 +209,15 @@ test_cases:
 - response: 7E8056211BA411C
   expected_values:
     AUDI_OIL_LEVEL: 66.672
+- response: 7E8056211BA4120
+  expected_values:
+    AUDI_OIL_LEVEL: 66.688
 - response: 7E8056211BA4126
   expected_values:
     AUDI_OIL_LEVEL: 66.712
+- response: 7E8056211BA413A
+  expected_values:
+    AUDI_OIL_LEVEL: 66.792
 - response: 7E8056211BA414E
   expected_values:
     AUDI_OIL_LEVEL: 66.872
@@ -242,6 +266,9 @@ test_cases:
 - response: 7E8056211BA41FC
   expected_values:
     AUDI_OIL_LEVEL: 67.568
+- response: 7E8056211BA4206
+  expected_values:
+    AUDI_OIL_LEVEL: 67.608
 - response: 7E8056211BA4217
   expected_values:
     AUDI_OIL_LEVEL: 67.676
@@ -263,12 +290,18 @@ test_cases:
 - response: 7E8056211BA4242
   expected_values:
     AUDI_OIL_LEVEL: 67.848
+- response: 7E8056211BA424C
+  expected_values:
+    AUDI_OIL_LEVEL: 67.888
 - response: 7E8056211BA4253
   expected_values:
     AUDI_OIL_LEVEL: 67.916
 - response: 7E8056211BA4256
   expected_values:
     AUDI_OIL_LEVEL: 67.928
+- response: 7E8056211BA4267
+  expected_values:
+    AUDI_OIL_LEVEL: 67.996
 - response: 7E8056211BA426D
   expected_values:
     AUDI_OIL_LEVEL: 68.02
@@ -302,6 +335,9 @@ test_cases:
 - response: 7E8056211BA42CB
   expected_values:
     AUDI_OIL_LEVEL: 68.396
+- response: 7E8056211BA42EF
+  expected_values:
+    AUDI_OIL_LEVEL: 68.54
 - response: 7E8056211BA42F3
   expected_values:
     AUDI_OIL_LEVEL: 68.556
@@ -350,6 +386,12 @@ test_cases:
 - response: 7E8056211BA439D
   expected_values:
     AUDI_OIL_LEVEL: 69.236
+- response: 7E8056211BA43B1
+  expected_values:
+    AUDI_OIL_LEVEL: 69.316
+- response: 7E8056211BA43BB
+  expected_values:
+    AUDI_OIL_LEVEL: 69.356
 - response: 7E8056211BA43BE
   expected_values:
     AUDI_OIL_LEVEL: 69.368
@@ -365,12 +407,21 @@ test_cases:
 - response: 7E8056211BA43ED
   expected_values:
     AUDI_OIL_LEVEL: 69.556
+- response: 7E8056211BA43F4
+  expected_values:
+    AUDI_OIL_LEVEL: 69.584
 - response: 7E8056211BA4422
   expected_values:
     AUDI_OIL_LEVEL: 69.768
 - response: 7E8056211BA4426
   expected_values:
     AUDI_OIL_LEVEL: 69.784
+- response: 7E8056211BA4433
+  expected_values:
+    AUDI_OIL_LEVEL: 69.836
+- response: 7E8056211BA443A
+  expected_values:
+    AUDI_OIL_LEVEL: 69.864
 - response: 7E8056211BA443D
   expected_values:
     AUDI_OIL_LEVEL: 69.876
@@ -383,6 +434,9 @@ test_cases:
 - response: 7E8056211BA445E
   expected_values:
     AUDI_OIL_LEVEL: 70.008
+- response: 7E8056211BA4462
+  expected_values:
+    AUDI_OIL_LEVEL: 70.024
 - response: 7E8056211BA4468
   expected_values:
     AUDI_OIL_LEVEL: 70.048
@@ -407,6 +461,9 @@ test_cases:
 - response: 7E8056211BA44A1
   expected_values:
     AUDI_OIL_LEVEL: 70.276
+- response: 7E8056211BA44AF
+  expected_values:
+    AUDI_OIL_LEVEL: 70.332
 - response: 7E8056211BA44B5
   expected_values:
     AUDI_OIL_LEVEL: 70.356
@@ -419,6 +476,9 @@ test_cases:
 - response: 7E8056211BA44C3
   expected_values:
     AUDI_OIL_LEVEL: 70.412
+- response: 7E8056211BA44CD
+  expected_values:
+    AUDI_OIL_LEVEL: 70.452
 - response: 7E8056211BA44D0
   expected_values:
     AUDI_OIL_LEVEL: 70.464
@@ -503,6 +563,9 @@ test_cases:
 - response: 7E8056211BA45B6
   expected_values:
     AUDI_OIL_LEVEL: 71.384
+- response: 7E8056211BA45C7
+  expected_values:
+    AUDI_OIL_LEVEL: 71.452
 - response: 7E8056211BA45CA
   expected_values:
     AUDI_OIL_LEVEL: 71.464
@@ -536,6 +599,9 @@ test_cases:
 - response: 7E8056211BA4614
   expected_values:
     AUDI_OIL_LEVEL: 71.76
+- response: 7E8056211BA4617
+  expected_values:
+    AUDI_OIL_LEVEL: 71.772
 - response: 7E8056211BA4624
   expected_values:
     AUDI_OIL_LEVEL: 71.824
@@ -563,6 +629,9 @@ test_cases:
 - response: 7E8056211BA468C
   expected_values:
     AUDI_OIL_LEVEL: 72.24
+- response: 7E8056211BA469C
+  expected_values:
+    AUDI_OIL_LEVEL: 72.304
 - response: 7E8056211BA46A0
   expected_values:
     AUDI_OIL_LEVEL: 72.32
@@ -572,6 +641,9 @@ test_cases:
 - response: 7E8056211BA46C4
   expected_values:
     AUDI_OIL_LEVEL: 72.464
+- response: 7E8056211BA46C8
+  expected_values:
+    AUDI_OIL_LEVEL: 72.48
 - response: 7E8056211BA46D8
   expected_values:
     AUDI_OIL_LEVEL: 72.544
@@ -590,6 +662,9 @@ test_cases:
 - response: 7E8056211BA46FD
   expected_values:
     AUDI_OIL_LEVEL: 72.692
+- response: 7E8056211BA4707
+  expected_values:
+    AUDI_OIL_LEVEL: 72.732
 - response: 7E8056211BA4725
   expected_values:
     AUDI_OIL_LEVEL: 72.852
@@ -659,6 +734,12 @@ test_cases:
 - response: 7E8056211BA481C
   expected_values:
     AUDI_OIL_LEVEL: 73.84
+- response: 7E8056211BA4830
+  expected_values:
+    AUDI_OIL_LEVEL: 73.92
+- response: 7E8056211BA4833
+  expected_values:
+    AUDI_OIL_LEVEL: 73.932
 - response: 7E8056211BA4847
   expected_values:
     AUDI_OIL_LEVEL: 74.012
@@ -668,24 +749,45 @@ test_cases:
 - response: 7E8056211BA489E
   expected_values:
     AUDI_OIL_LEVEL: 74.36
+- response: 7E8056211BA48EE
+  expected_values:
+    AUDI_OIL_LEVEL: 74.68
 - response: 7E8056211BA4902
   expected_values:
     AUDI_OIL_LEVEL: 74.76
 - response: 7E8056211BA491D
   expected_values:
     AUDI_OIL_LEVEL: 74.868
+- response: 7E8056211BA494F
+  expected_values:
+    AUDI_OIL_LEVEL: 75.068
 - response: 7E8056211BA495C
   expected_values:
     AUDI_OIL_LEVEL: 75.12
 - response: 7E8056211BA4963
   expected_values:
     AUDI_OIL_LEVEL: 75.148
+- response: 7E8056211BA499C
+  expected_values:
+    AUDI_OIL_LEVEL: 75.376
 - response: 7E8056211BA49A9
   expected_values:
     AUDI_OIL_LEVEL: 75.428
 - response: 7E8056211BA49C4
   expected_values:
     AUDI_OIL_LEVEL: 75.536
+- response: 7E8056211BA49CE
+  expected_values:
+    AUDI_OIL_LEVEL: 75.576
+- response: 7E8056211BA49F9
+  expected_values:
+    AUDI_OIL_LEVEL: 75.748
+- response: 7E8056211BA4A1A
+  expected_values:
+    AUDI_OIL_LEVEL: 75.88
+- response: 7E8056211BA4A67
+  expected_values:
+    AUDI_OIL_LEVEL: 76.188
 - response: 7E8056211BA4AA3
   expected_values:
     AUDI_OIL_LEVEL: 76.428
@@ -719,18 +821,51 @@ test_cases:
 - response: 7E8056211BA4DB3
   expected_values:
     AUDI_OIL_LEVEL: 79.564
+- response: 7E8056211BA4E1E
+  expected_values:
+    AUDI_OIL_LEVEL: 79.992
 - response: 7E8056211BA4E71
   expected_values:
     AUDI_OIL_LEVEL: 80.324
+- response: 7E8056211BA507D
+  expected_values:
+    AUDI_OIL_LEVEL: 82.42
+- response: 7E8056211BA50BD
+  expected_values:
+    AUDI_OIL_LEVEL: 82.676
+- response: 7E8056211BA50FC
+  expected_values:
+    AUDI_OIL_LEVEL: 82.928
+- response: 7E8056211BA5117
+  expected_values:
+    AUDI_OIL_LEVEL: 83.036
 - response: 7E8056211BA5145
   expected_values:
     AUDI_OIL_LEVEL: 83.22
+- response: 7E8056211BA51AD
+  expected_values:
+    AUDI_OIL_LEVEL: 83.636
+- response: 7E8056211BA51C4
+  expected_values:
+    AUDI_OIL_LEVEL: 83.728
+- response: 7E8056211BA51F9
+  expected_values:
+    AUDI_OIL_LEVEL: 83.94
+- response: 7E8056211BA5246
+  expected_values:
+    AUDI_OIL_LEVEL: 84.248
+- response: 7E8056211BA5278
+  expected_values:
+    AUDI_OIL_LEVEL: 84.448
 - response: 7E8056211BA5326
   expected_values:
     AUDI_OIL_LEVEL: 85.144
 - response: 7E8056211BA541D
   expected_values:
     AUDI_OIL_LEVEL: 86.132
+- response: 7E8056211BA5452
+  expected_values:
+    AUDI_OIL_LEVEL: 86.344
 - response: 7E8056211BA5737
   expected_values:
     AUDI_OIL_LEVEL: 89.308
