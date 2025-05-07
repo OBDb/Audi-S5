@@ -5,33 +5,6 @@ test_cases:
 - response: '7E9056203020861'
   expected_values:
     AUDI_DRIVE_TIME: 536.25
-- response: '7E9056203020862'
+- response: '7E9056203020874'
   expected_values:
-    AUDI_DRIVE_TIME: 536.5
-- response: '7E9056203020863'
-  expected_values:
-    AUDI_DRIVE_TIME: 536.75
-- response: '7E9056203020864'
-  expected_values:
-    AUDI_DRIVE_TIME: 537
-- response: '7E9056203020865'
-  expected_values:
-    AUDI_DRIVE_TIME: 537.25
-- response: '7E9056203020867'
-  expected_values:
-    AUDI_DRIVE_TIME: 537.75
-- response: 7E905620302086C
-  expected_values:
-    AUDI_DRIVE_TIME: 539
-- response: 7E905620302086D
-  expected_values:
-    AUDI_DRIVE_TIME: 539.25
-- response: 7E905620302086E
-  expected_values:
-    AUDI_DRIVE_TIME: 539.5
-- response: 7E905620302086F
-  expected_values:
-    AUDI_DRIVE_TIME: 539.75
-- response: '7E9056203020870'
-  expected_values:
-    AUDI_DRIVE_TIME: 540
+    AUDI_DRIVE_TIME: 541

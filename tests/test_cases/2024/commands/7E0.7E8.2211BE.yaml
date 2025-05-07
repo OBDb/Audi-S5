@@ -4,4 +4,4 @@ extended_addressing_enabled: false
 test_cases:
 - response: 7E8056211BE0006
   expected_values:
-    AUDI_EOT: 6
+    AUDI_EOT_V2: 6
