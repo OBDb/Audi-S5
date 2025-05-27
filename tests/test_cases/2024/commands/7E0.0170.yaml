@@ -1,6 +1,4 @@
 command_id: 7E0.0170
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
 - response: |-
     7E8100C41700200000C
@@ -60,9 +58,9 @@ test_cases:
     BP_B_SUP: 0
 - response: |-
     7E8100C41700200000D
-    7E82103000000000000
+    7E82101000000000000
   expected_values:
-    BP_A_ACT: 104.09375
+    BP_A_ACT: 104.03125
     BP_A_ACT_SUP: 1
     BP_A_CMD: 0
     BP_A_CMD_SUP: 0
@@ -73,10 +71,10 @@ test_cases:
     BP_B_CMD_SUP: 0
     BP_B_SUP: 0
 - response: |-
-    7E8100C417002000015
-    7E8212E000000000000
+    7E8100C41700200001C
+    7E82143000000000000
   expected_values:
-    BP_A_ACT: 169.4375
+    BP_A_ACT: 226.09375
     BP_A_ACT_SUP: 1
     BP_A_CMD: 0
     BP_A_CMD_SUP: 0
