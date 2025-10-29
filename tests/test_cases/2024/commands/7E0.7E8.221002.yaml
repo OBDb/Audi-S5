@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_AC_COMP_T: 0
   response: '7E8056210020000'
+- expected_values:
+    AUDI_AC_COMP_T: 7.8
+  response: 7E805621002004E
