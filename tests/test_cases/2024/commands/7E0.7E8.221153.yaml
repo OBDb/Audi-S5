@@ -4,8 +4,11 @@ test_cases:
     AUDI_EM_TORQ_1: 55.5625
   response: 7E80562115306F2
 - expected_values:
-    AUDI_EM_TORQ_1: 55.9375
-  response: 7E80562115306FE
+    AUDI_EM_TORQ_1: 55.96875
+  response: 7E80562115306FF
+- expected_values:
+    AUDI_EM_TORQ_1: 56
+  response: '7E8056211530700'
 - expected_values:
     AUDI_EM_TORQ_1: 74.71875
   response: '7E8056211530957'
