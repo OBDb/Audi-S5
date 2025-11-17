@@ -1,0 +1,8 @@
+command_id: 746.7B0.222605|fc=1
+test_cases:
+- expected_values:
+    AUDI_REFRIG_P: 8.8
+  response: 7B0046226052C
+- expected_values:
+    AUDI_REFRIG_P: 11.2
+  response: 7B00462260538

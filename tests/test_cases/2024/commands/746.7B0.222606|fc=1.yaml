@@ -7,5 +7,5 @@ test_cases:
     AUDI_HVAC_FAN1_ACT: 51
   response: 7B00562260601FE
 - expected_values:
-    AUDI_HVAC_FAN1_ACT: 55
-  response: 7B0056226060226
+    AUDI_HVAC_FAN1_ACT: 52
+  response: 7B0056226060208
