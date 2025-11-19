@@ -4,5 +4,5 @@ test_cases:
     AUDI_REFRIG_P: 7.8
   response: 7B00462260527
 - expected_values:
-    AUDI_REFRIG_P: 12
-  response: 7B0046226053C
+    AUDI_REFRIG_P: 12.6
+  response: 7B0046226053F
