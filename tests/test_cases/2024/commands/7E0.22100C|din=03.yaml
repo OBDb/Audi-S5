@@ -1,0 +1,26 @@
+command_id: 7E0.22100C|din=03
+test_cases:
+- expected_values:
+    AUDI_FUEL_LVL: 0
+  response: 7E80762100C00000AF0
+- expected_values:
+    AUDI_FUEL_LVL: 0
+  response: 7E80762100C00000F64
+- expected_values:
+    AUDI_FUEL_LVL: 0
+  response: 7E80762100C00001C3E
+- expected_values:
+    AUDI_FUEL_LVL: 655.35
+  response: 7E80762100CFFFFF556
+- expected_values:
+    AUDI_FUEL_LVL: 655.35
+  response: 7E80762100CFFFFF6D2
+- expected_values:
+    AUDI_FUEL_LVL: 655.35
+  response: 7E80762100CFFFFFA1A
+- expected_values:
+    AUDI_FUEL_LVL: 655.35
+  response: 7E80762100CFFFFFC2C
+- expected_values:
+    AUDI_FUEL_LVL: 655.35
+  response: 7E80762100CFFFFFE02

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210D4
+test_cases:
+- expected_values:
+    AUDI_INJ_6_RAIL_P_CAL_1: 0
+  response: 7E8056210D40000
+- expected_values:
+    AUDI_INJ_6_RAIL_P_CAL_1: -0.3
+  response: 7E8056210D4FFFA

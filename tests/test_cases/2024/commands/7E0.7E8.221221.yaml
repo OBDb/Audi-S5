@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221221
+test_cases:
+- expected_values:
+    AUDI_SNS_1: 1.6
+  response: '7E8056212210008'
+- expected_values:
+    AUDI_SNS_1: 2
+  response: 7E805621221000A
+- expected_values:
+    AUDI_SNS_1: 2.2
+  response: 7E805621221000B
+- expected_values:
+    AUDI_SNS_1: 2.6
+  response: 7E805621221000D
+- expected_values:
+    AUDI_SNS_1: 3.2
+  response: '7E8056212210010'
+- expected_values:
+    AUDI_SNS_1: 4.6
+  response: '7E8056212210017'
+- expected_values:
+    AUDI_SNS_1: 7.4
+  response: '7E8056212210025'
+- expected_values:
+    AUDI_SNS_1: 8.4
+  response: 7E805621221002A
