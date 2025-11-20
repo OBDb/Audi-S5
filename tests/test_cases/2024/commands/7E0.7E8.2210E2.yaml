@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210E2
+test_cases:
+- expected_values:
+    AUDI_KNOCK_RETARD_1: 0
+  response: 7E8046210E200

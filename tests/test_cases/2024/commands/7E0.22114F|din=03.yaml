@@ -1,0 +1,8 @@
+command_id: 7E0.22114F|din=03
+test_cases:
+- expected_values:
+    AUDI_SOOT_MASS_CALCULATED: 14.07
+  response: 7E80562114F057F
+- expected_values:
+    AUDI_SOOT_MASS_CALCULATED: 14.08
+  response: 7E80562114F0580

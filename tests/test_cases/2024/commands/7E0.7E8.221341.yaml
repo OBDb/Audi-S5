@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221341
+test_cases:
+- expected_values:
+    AUDI_END_OF_PHASE_WINDOW: 4.6363
+  response: 7E80562134100D3
+- expected_values:
+    AUDI_END_OF_PHASE_WINDOW: 23.53308
+  response: 7E805621341042F
+- expected_values:
+    AUDI_END_OF_PHASE_WINDOW: 26.30168
+  response: 7E80562134104AD
+- expected_values:
+    AUDI_END_OF_PHASE_WINDOW: 36.93661
+  response: '7E8056213410691'
+- expected_values:
+    AUDI_END_OF_PHASE_WINDOW: 63.50197
+  response: 7E8056213410B4A
+- expected_values:
+    AUDI_END_OF_PHASE_WINDOW: 234.32007
+  response: 7E80562134129A8
+- expected_values:
+    AUDI_END_OF_PHASE_WINDOW: 386.1535
+  response: 7E80562134144A6
+- expected_values:
+    AUDI_END_OF_PHASE_WINDOW: 435.24118
+  response: 7E8056213414D60
+- expected_values:
+    AUDI_END_OF_PHASE_WINDOW: -111.51298
+  response: 7E805621341EC2D
+- expected_values:
+    AUDI_END_OF_PHASE_WINDOW: -11.38201
+  response: 7E805621341FDFA

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2214B4
+test_cases:
+- expected_values:
+    AUDI_FUEL_LVL_14B4: 44
+  response: 7E8056214B41130
+- expected_values:
+    AUDI_FUEL_LVL_14B4: 45
+  response: 7E8056214B41194
