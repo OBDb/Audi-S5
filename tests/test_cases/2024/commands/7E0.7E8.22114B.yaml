@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22114B
+test_cases:
+- expected_values:
+    AUDI_MISFIRE_PER_1K_REV_2: 0
+  response: 7E80562114B0000
+- expected_values:
+    AUDI_MISFIRE_PER_1K_REV_2: 1
+  response: 7E80562114B0001
