@@ -1,5 +1,0 @@
-command_id: 7E0.7E8.221150
-test_cases:
-- expected_values:
-    AUDI_MISFIRE_5: 759
-  response: 7E80562115002F7

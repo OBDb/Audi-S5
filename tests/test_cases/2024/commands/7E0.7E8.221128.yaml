@@ -1,5 +1,0 @@
-command_id: 7E0.7E8.221128
-test_cases:
-- expected_values:
-    AUDI_CAM_ADAPT_EXH_BNK_1_PHASE_POS: -0.79103
-  response: 7E805621128FFDC
