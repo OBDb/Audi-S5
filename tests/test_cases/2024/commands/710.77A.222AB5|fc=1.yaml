@@ -3,8 +3,8 @@ test_cases:
 - expected_values:
     AUDI_RANGE_EST_CAN: 2047
   response: |-
-    77A100D622AB5009C00
-    77A219C07FF07FF0000
+    77A100D622AB5009400
+    77A219407FF07FF0000
 - expected_values:
     AUDI_RANGE_EST_CAN: 2047
   response: |-
@@ -33,5 +33,5 @@ test_cases:
 - expected_values:
     AUDI_RANGE_EST_CAN: 2047
   response: |-
-    77A100D622AB5021A02
-    77A211A07FF07FF0000
+    77A100D622AB5021502
+    77A211507FF07FF0000
