@@ -1,10 +1,28 @@
-generations:
-  - name: "First Generation (8T)"
-    start_year: 2007
-    end_year: 2016
-    description: "The original Audi S5 was based on the first-generation A5 platform, initially featuring a naturally aspirated 4.2L V8 engine producing 354 HP in the coupe, while the later introduced cabriolet and sportback variants received a supercharged 3.0L V6. The coupe was also updated to the V6 with its 2012 facelift. Transmission options included a six-speed manual or automatic for the V8, and a seven-speed S tronic dual-clutch for the V6. The S5 featured distinctive styling with subtle S-specific enhancements, including aluminum-look mirror caps, quad exhaust tips, and unique wheels. The first-generation S5 was praised for its balance of performance, luxury, and striking design."
+references:
+  - "https://en.wikipedia.org/wiki/Audi_S5"
 
-  - name: "Second Generation (F5)"
-    start_year: 2016
+generations:
+  - name: "First Generation (B8/8T)"
+    start_year: 2007
+    end_year: 2012
+    description: "The original Audi S5 was released in coupé form alongside the A5. The B8 generation featured a 4.2-litre V8 FSI engine in the coupé producing 260 kW (354 HP), while the cabriolet and sportback variants (introduced in 2009) received a supercharged 3.0-litre V6 TFSI engine producing 245 kW. The coupé offered a 6-speed manual or Tiptronic automatic, while the cabriolet and sportback had a 7-speed S-tronic dual-clutch transmission. The S5 featured distinctive aggressive styling with LED daytime running lights, bi-Xenon headlamps, and dual-tip exhausts."
+
+  - name: "First Generation (B8.5/8.5T Facelift)"
+    start_year: 2012
+    end_year: 2017
+    description: "The B8.5 facelift represented a mid-generational refresh with significant styling updates including a complete redesign of the headlights with new LED DRL's, a new grille based on the A6 design, and updated LED tail lights. Most notably, the coupé switched from the 4.2L V8 to the 3.0-litre supercharged V6 TFSI engine, unifying the powertrain across all body styles. Stop-start technology was introduced for improved fuel efficiency. Interior updates included chrome-treated dials, new Audi MMI 3G+ with Google Earth maps, and a flat-bottom steering wheel style."
+
+  - name: "Second Generation (B9)"
+    start_year: 2017
+    end_year: 2024
+    description: "The B9 generation, built from late 2017, introduced a completely new 3.0-litre V6 twin-scroll turbocharged engine co-developed with Porsche, producing 260 kW and mounted with the turbo within the V-angle to reduce turbo lag. Major design changes included a complete redesign of the headlights, bonnet, sharper body lines, and a new larger one-piece grille with LED front and rear lighting. The quattro system utilized a locking centre differential splitting torque 40% front/60% rear with variable distribution. Interior featured a redesigned dashboard, updated 8-inch Audi MMI, optional Virtual Cockpit, and electrically adjustable heated sport seats."
+
+  - name: "Second Generation (B9.5 Facelift)"
+    start_year: 2019
+    end_year: 2024
+    description: "The 2019 B9.5 facelift introduced for 2020 model year featured updated styling and powertrain options. In Europe, the new 2019 S5 was exclusively offered with a diesel V6 TDI engine producing 345 HP as a mild-hybrid variant, while other markets retained the 3.0L TFSI twin-scroll turbocharged engine. This generation maintained the advanced technology features and performance credentials of the B9."
+
+  - name: "Third Generation (B10)"
+    start_year: 2024
     end_year: null
-    description: "Based on the second-generation A5 platform, the current S5 features a turbocharged 3.0L V6 engine producing 349 HP (later 341 HP in some markets), paired with an eight-speed automatic transmission and quattro all-wheel drive. Available in coupe, sportback, and cabriolet body styles, it features more aggressive styling than its predecessor with sharper lines and more pronounced details. The interior blends performance-oriented features with Audi's latest technology including the Virtual Cockpit digital instrument cluster. A facelift in 2019 updated the styling with a wider, flatter grille and revised details. The second-generation S5 continues to offer an appealing combination of performance, luxury, and distinctive styling across all three body variants, positioned between the standard A5 and the high-performance RS5."
+    description: "The latest B10 generation is based on the new Audi A5 B10 and uses the Premium Platform Combustion (PPC). The B10 S5 introduces a new 3.0-litre V6 twin-scroll MHEV (mild hybrid electric vehicle) turbocharged engine producing 270 kW and 550 Nm of torque. For the first time, the S5 is available as a sedan and as an Avant estate/wagon in addition to the traditional coupé and cabriolet variants, significantly expanding the model's appeal and versatility."
