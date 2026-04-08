@@ -1,17 +1,17 @@
 command_id: 710.222A0A
 test_cases:
 - expected_values:
-    AUDI_SSB_SENSOR_T: 21
+    AUDI_MQB_BAT_SEN_T: 21
   response: 77A04622A0A3D
 - expected_values:
-    AUDI_SSB_SENSOR_T: 24
+    AUDI_MQB_BAT_SEN_T: 24
   response: 77A04622A0A40
 - expected_values:
-    AUDI_SSB_SENSOR_T: 29
+    AUDI_MQB_BAT_SEN_T: 29
   response: 77A04622A0A45
 - expected_values:
-    AUDI_SSB_SENSOR_T: 30
+    AUDI_MQB_BAT_SEN_T: 30
   response: 77A04622A0A46
 - expected_values:
-    AUDI_SSB_SENSOR_T: 31
+    AUDI_MQB_BAT_SEN_T: 31
   response: 77A04622A0A47
