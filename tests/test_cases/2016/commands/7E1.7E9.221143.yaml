@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221143
+test_cases:
+- expected_values:
+    AUDI_MQB_DQ250_NEUTRAL_POS_GEAR_SELECTOR_6_R: 276.48
+  response: 7E907621143006C00FE
+- expected_values:
+    AUDI_MQB_DQ250_NEUTRAL_POS_GEAR_SELECTOR_6_R: 314.88
+  response: 7E907621143007B60FE

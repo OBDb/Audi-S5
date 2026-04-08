@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221018
+test_cases:
+- expected_values:
+    AUDI_PQ35_DRIVING_STRATEGY_MOUNTAIN_FACTOR: 0.39216
+  response: 7E905621018011B
+- expected_values:
+    AUDI_PQ35_DRIVING_STRATEGY_MOUNTAIN_FACTOR: 0.39216
+  response: 7E905621018011C
