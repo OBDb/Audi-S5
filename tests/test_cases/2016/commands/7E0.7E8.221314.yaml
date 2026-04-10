@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221314
 test_cases:
 - expected_values:
+    AUDI_PQ35_MEAN_AIR_MASS: 0
+  response: '7E8056213140000'
+- expected_values:
     AUDI_PQ35_MEAN_AIR_MASS: 20.4375
   response: 7E805621314028E
 - expected_values:
