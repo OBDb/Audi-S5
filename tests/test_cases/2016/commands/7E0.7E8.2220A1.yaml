@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     AUDI_PQ35_CALCULATED_OIL_T: 93
   response: 7E8046220A185
+- expected_values:
+    AUDI_PQ35_CALCULATED_OIL_T: 96
+  response: 7E8046220A188
+- expected_values:
+    AUDI_PQ35_CALCULATED_OIL_T: 97
+  response: 7E8046220A189
