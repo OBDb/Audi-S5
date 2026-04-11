@@ -7,6 +7,9 @@ test_cases:
     AUDI_TIRE_RL_SPD_V3: 1.4
   response: 7E905621004000E
 - expected_values:
+    AUDI_TIRE_RL_SPD_V3: 3.5
+  response: '7E9056210040023'
+- expected_values:
     AUDI_TIRE_RL_SPD_V3: 12.2
   response: 7E905621004007A
 - expected_values:
@@ -16,8 +19,14 @@ test_cases:
     AUDI_TIRE_RL_SPD_V3: 43
   response: 7E90562100401AE
 - expected_values:
+    AUDI_TIRE_RL_SPD_V3: 43.9
+  response: 7E90562100401B7
+- expected_values:
     AUDI_TIRE_RL_SPD_V3: 59.3
   response: '7E9056210040251'
+- expected_values:
+    AUDI_TIRE_RL_SPD_V3: 60.9
+  response: '7E9056210040261'
 - expected_values:
     AUDI_TIRE_RL_SPD_V3: 63.7
   response: 7E905621004027D

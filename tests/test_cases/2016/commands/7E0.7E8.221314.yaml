@@ -4,6 +4,9 @@ test_cases:
     AUDI_PQ35_MEAN_AIR_MASS: 0
   response: '7E8056213140000'
 - expected_values:
+    AUDI_PQ35_MEAN_AIR_MASS: 19.40625
+  response: 7E805621314026D
+- expected_values:
     AUDI_PQ35_MEAN_AIR_MASS: 20.4375
   response: 7E805621314028E
 - expected_values:
@@ -12,6 +15,9 @@ test_cases:
 - expected_values:
     AUDI_PQ35_MEAN_AIR_MASS: 28.3125
   response: 7E805621314038A
+- expected_values:
+    AUDI_PQ35_MEAN_AIR_MASS: 33.25
+  response: '7E8056213140428'
 - expected_values:
     AUDI_PQ35_MEAN_AIR_MASS: 53.875
   response: 7E80562131406BC
