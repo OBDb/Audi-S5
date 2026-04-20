@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.22F421
 test_cases:
 - expected_values:
+    AUDI_MIL_DIST: 116
+  response: 7E80562F4210074
+- expected_values:
+    AUDI_MIL_DIST: 117
+  response: 7E80562F4210075
+- expected_values:
     AUDI_MIL_DIST: 381
   response: 7E80562F421017D

@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     AUDI_EM_TORQ_3: -2.90625
   response: 7E805621155FFA3
+- expected_values:
+    AUDI_EM_TORQ_3: -0.71875
+  response: 7E805621155FFE9
