@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22117E
 test_cases:
 - expected_values:
-    AUDI_PQ35_TURB_ACT_1_B1: 15.13
-  response: 7E80562117E05E9
+    AUDI_PQ35_TURB_ACT_1_B1: 14.38
+  response: 7E80562117E059E
 - expected_values:
     AUDI_PQ35_TURB_ACT_1_B1: 20.46
   response: 7E80562117E07FE
