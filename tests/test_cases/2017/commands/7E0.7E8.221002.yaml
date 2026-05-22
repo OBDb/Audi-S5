@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.221002
 test_cases:
 - expected_values:
+    AUDI_AC_COMP_T: 0
+  response: '7E8056210020000'
+- expected_values:
+    AUDI_AC_COMP_T: 9.8
+  response: '7E8056210020062'
+- expected_values:
     AUDI_AC_COMP_T: 10
   response: '7E8056210020064'
 - expected_values:
