@@ -16,3 +16,15 @@ test_cases:
     AUDI_EM_RPM_1: 100
     AUDI_MISFIRES__CYL__4: 14843
   response: 7E80562115139FB
+- expected_values:
+    AUDI_EM_RPM_1: 100
+    AUDI_MISFIRES__CYL__4: 14905
+  response: 7E8056211513A39
+- expected_values:
+    AUDI_EM_RPM_1: 100
+    AUDI_MISFIRES__CYL__4: 15697
+  response: 7E8056211513D51
+- expected_values:
+    AUDI_EM_RPM_1: 100
+    AUDI_MISFIRES__CYL__4: 15706
+  response: 7E8056211513D5A
