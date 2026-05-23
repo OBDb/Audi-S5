@@ -12,3 +12,19 @@ test_cases:
     AUDI_CLIMATE_REFRIG_P: 13
     AUDI_PQ35_REF_P: 13
   response: 7B00462260541
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 13.4
+    AUDI_PQ35_REF_P: 13.4
+  response: 7B00462260543
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 14.4
+    AUDI_PQ35_REF_P: 14.4
+  response: 7B00462260548
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 15.4
+    AUDI_PQ35_REF_P: 15.4
+  response: 7B0046226054D
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 16.8
+    AUDI_PQ35_REF_P: 16.8
+  response: 7B00462260554
