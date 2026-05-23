@@ -32,3 +32,11 @@ test_cases:
     AUDI_EM_RPM_2: -100
     AUDI_MISFIRES__CYL__2: 33228
   response: 7E80562115281CC
+- expected_values:
+    AUDI_EM_RPM_2: -100
+    AUDI_MISFIRES__CYL__2: 33229
+  response: 7E80562115281CD
+- expected_values:
+    AUDI_EM_RPM_2: -100
+    AUDI_MISFIRES__CYL__2: 33230
+  response: 7E80562115281CE
