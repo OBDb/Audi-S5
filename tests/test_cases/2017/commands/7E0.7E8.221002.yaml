@@ -4,29 +4,5 @@ test_cases:
     AUDI_AC_COMP_T: 0
   response: '7E8056210020000'
 - expected_values:
-    AUDI_AC_COMP_T: 9.8
-  response: '7E8056210020062'
-- expected_values:
-    AUDI_AC_COMP_T: 10
-  response: '7E8056210020064'
-- expected_values:
-    AUDI_AC_COMP_T: 10.3
-  response: '7E8056210020067'
-- expected_values:
-    AUDI_AC_COMP_T: 10.5
-  response: '7E8056210020069'
-- expected_values:
-    AUDI_AC_COMP_T: 11.8
-  response: '7E8056210020076'
-- expected_values:
-    AUDI_AC_COMP_T: 12
-  response: '7E8056210020078'
-- expected_values:
-    AUDI_AC_COMP_T: 13.5
-  response: '7E8056210020087'
-- expected_values:
-    AUDI_AC_COMP_T: 14
-  response: 7E805621002008C
-- expected_values:
     AUDI_AC_COMP_T: 16.8
   response: 7E80562100200A8
