@@ -12,3 +12,7 @@ test_cases:
     AUDI_MQB_BAT_V: 14.484
     AUDI_SSB_V: 69.54
   response: 77A05622A0728F4
+- expected_values:
+    AUDI_MQB_BAT_V: 14.507
+    AUDI_SSB_V: 69.54
+  response: 77A05622A07290B
