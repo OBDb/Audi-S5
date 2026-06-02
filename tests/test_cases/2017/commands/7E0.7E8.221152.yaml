@@ -6,37 +6,5 @@ test_cases:
   response: 7E80562115281AF
 - expected_values:
     AUDI_EM_RPM_2: -100
-    AUDI_MISFIRES__CYL__2: 33211
-  response: 7E80562115281BB
-- expected_values:
-    AUDI_EM_RPM_2: -100
-    AUDI_MISFIRES__CYL__2: 33214
-  response: 7E80562115281BE
-- expected_values:
-    AUDI_EM_RPM_2: -100
-    AUDI_MISFIRES__CYL__2: 33220
-  response: 7E80562115281C4
-- expected_values:
-    AUDI_EM_RPM_2: -100
-    AUDI_MISFIRES__CYL__2: 33221
-  response: 7E80562115281C5
-- expected_values:
-    AUDI_EM_RPM_2: -100
-    AUDI_MISFIRES__CYL__2: 33223
-  response: 7E80562115281C7
-- expected_values:
-    AUDI_EM_RPM_2: -100
-    AUDI_MISFIRES__CYL__2: 33225
-  response: 7E80562115281C9
-- expected_values:
-    AUDI_EM_RPM_2: -100
-    AUDI_MISFIRES__CYL__2: 33228
-  response: 7E80562115281CC
-- expected_values:
-    AUDI_EM_RPM_2: -100
-    AUDI_MISFIRES__CYL__2: 33229
-  response: 7E80562115281CD
-- expected_values:
-    AUDI_EM_RPM_2: -100
-    AUDI_MISFIRES__CYL__2: 33230
-  response: 7E80562115281CE
+    AUDI_MISFIRES__CYL__2: 33231
+  response: 7E80562115281CF
