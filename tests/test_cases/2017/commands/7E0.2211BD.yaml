@@ -1,13 +1,9 @@
 command_id: 7E0.2211BD
 test_cases:
 - expected_values:
-    AUDI_OIL_LEVEL_WARN: 1.2616
-    AUDI_PQ35_OIL_LVL_CRIT: 12.616
-  response: 7E8056211BD0C52
-- expected_values:
-    AUDI_OIL_LEVEL_WARN: 1.3024
-    AUDI_PQ35_OIL_LVL_CRIT: 13.024
-  response: 7E8056211BD0CB8
+    AUDI_OIL_LEVEL_WARN: 1.2228
+    AUDI_PQ35_OIL_LVL_CRIT: 12.228
+  response: 7E8056211BD0BF1
 - expected_values:
     AUDI_OIL_LEVEL_WARN: 1.4396
     AUDI_PQ35_OIL_LVL_CRIT: 14.396
