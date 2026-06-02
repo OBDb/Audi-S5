@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     AUDI_CLR_DIST: 251
   response: 7E80562F43100FB
+- expected_values:
+    AUDI_CLR_DIST: 252
+  response: 7E80562F43100FC
