@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     AUDI_MISFIRES_C3: 11946
   response: 7E8056211502EAA
+- expected_values:
+    AUDI_MISFIRES_C3: 11949
+  response: 7E8056211502EAD
+- expected_values:
+    AUDI_MISFIRES_C3: 11957
+  response: 7E8056211502EB5
