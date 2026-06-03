@@ -32,3 +32,11 @@ test_cases:
     AUDI_ODO_2_V2: 154425
     AUDI_ODO_V3: 154425
   response: 7E8076210E000025B39
+- expected_values:
+    AUDI_ODO_2_V2: 154444
+    AUDI_ODO_V3: 154444
+  response: 7E8076210E000025B4C
+- expected_values:
+    AUDI_ODO_2_V2: 154468
+    AUDI_ODO_V3: 154468
+  response: 7E8076210E000025B64
