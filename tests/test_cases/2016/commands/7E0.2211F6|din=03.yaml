@@ -5,3 +5,8 @@ test_cases:
   response: |-
     7E810096211F6667364
     7E8215F3100AAAAAAAA
+- expected_values:
+    AUDI_PQ35_FIELD_LIM: 262.27
+  response: |-
+    7E810096211F6667364
+    7E8215F3200AAAAAAAA

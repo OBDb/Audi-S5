@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_DRIVE_TIME_ECO: 0.4
   response: '7E90462030301'
+- expected_values:
+    AUDI_DRIVE_TIME_ECO: 0.8
+  response: '7E90462030302'
+- expected_values:
+    AUDI_DRIVE_TIME_ECO: 3.2
+  response: '7E90462030308'
