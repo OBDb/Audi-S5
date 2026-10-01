@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222104
+test_cases:
+- expected_values:
+    S5_ATF_T: 27
+  response: '7E90462210443'
+- expected_values:
+    S5_ATF_T: 83
+  response: 7E9046221047B

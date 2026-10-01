@@ -1,26 +1,26 @@
 command_id: 7E1.7E9.220302
 test_cases:
 - expected_values:
-    AUDI_DRIVE_TIME: 2879.5
+    S5_DRIVE_TIME: 2879.5
   response: 7E9056203022CFE
 - expected_values:
-    AUDI_DRIVE_TIME: 2879.75
+    S5_DRIVE_TIME: 2879.75
   response: 7E9056203022CFF
 - expected_values:
-    AUDI_DRIVE_TIME: 2880
+    S5_DRIVE_TIME: 2880
   response: 7E9056203022D00
 - expected_values:
-    AUDI_DRIVE_TIME: 2880.75
+    S5_DRIVE_TIME: 2880.75
   response: 7E9056203022D03
 - expected_values:
-    AUDI_DRIVE_TIME: 2881
+    S5_DRIVE_TIME: 2881
   response: 7E9056203022D04
 - expected_values:
-    AUDI_DRIVE_TIME: 2881.25
+    S5_DRIVE_TIME: 2881.25
   response: 7E9056203022D05
 - expected_values:
-    AUDI_DRIVE_TIME: 2881.75
+    S5_DRIVE_TIME: 2881.75
   response: 7E9056203022D07
 - expected_values:
-    AUDI_DRIVE_TIME: 2882.5
+    S5_DRIVE_TIME: 2882.5
   response: 7E9056203022D0A

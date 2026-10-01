@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22128C
+test_cases:
+- expected_values:
+    S5_AVG_INJ_TIME: 0.5544
+  response: 7E80762128C0000056A
+- expected_values:
+    S5_AVG_INJ_TIME: 0.5932
+  response: 7E80762128C000005CB
+- expected_values:
+    S5_AVG_INJ_TIME: 0.6084
+  response: 7E80762128C000005F1
+- expected_values:
+    S5_AVG_INJ_TIME: 1.1548
+  response: 7E80762128C00000B47
+- expected_values:
+    S5_AVG_INJ_TIME: 1.1968
+  response: 7E80762128C00000BB0
+- expected_values:
+    S5_AVG_INJ_TIME: 1.3512
+  response: 7E80762128C00000D32
+- expected_values:
+    S5_AVG_INJ_TIME: 2.8964
+  response: 7E80762128C00001C49

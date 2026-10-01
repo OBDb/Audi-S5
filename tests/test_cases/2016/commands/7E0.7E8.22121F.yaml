@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22121F
+test_cases:
+- expected_values:
+    S5_HIGH_FUEL_P_CONTROL_DEVIATION: 711100
+  response: 7E80562121F1BC7
+- expected_values:
+    S5_HIGH_FUEL_P_CONTROL_DEVIATION: 711200
+  response: 7E80562121F1BC8
+- expected_values:
+    S5_HIGH_FUEL_P_CONTROL_DEVIATION: 711300
+  response: 7E80562121F1BC9
+- expected_values:
+    S5_HIGH_FUEL_P_CONTROL_DEVIATION: 711500
+  response: 7E80562121F1BCB
+- expected_values:
+    S5_HIGH_FUEL_P_CONTROL_DEVIATION: 711800
+  response: 7E80562121F1BCE
+- expected_values:
+    S5_HIGH_FUEL_P_CONTROL_DEVIATION: 713600
+  response: 7E80562121F1BE0
+- expected_values:
+    S5_HIGH_FUEL_P_CONTROL_DEVIATION: 713700
+  response: 7E80562121F1BE1
+- expected_values:
+    S5_HIGH_FUEL_P_CONTROL_DEVIATION: 741600
+  response: 7E80562121F1CF8

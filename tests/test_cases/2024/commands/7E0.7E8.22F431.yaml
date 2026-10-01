@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    AUDI_CLR_DIST: 7471
+    S5_CLR_DIST: 7471
   response: 7E80562F4311D2F
 - expected_values:
-    AUDI_CLR_DIST: 7680
+    S5_CLR_DIST: 7680
   response: 7E80562F4311E00
 - expected_values:
-    AUDI_CLR_DIST: 7935
+    S5_CLR_DIST: 7935
   response: 7E80562F4311EFF
 - expected_values:
-    AUDI_CLR_DIST: 31370
+    S5_CLR_DIST: 31370
   response: 7E80562F4317A8A

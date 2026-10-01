@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.221150
 test_cases:
 - expected_values:
-    AUDI_MISFIRES_C3: 11941
+    S5_MISFIRES_C3_ECM: 11941
   response: 7E8056211502EA5
 - expected_values:
-    AUDI_MISFIRES_C3: 11942
+    S5_MISFIRES_C3_ECM: 11942
   response: 7E8056211502EA6
 - expected_values:
-    AUDI_MISFIRES_C3: 11944
+    S5_MISFIRES_C3_ECM: 11944
   response: 7E8056211502EA8
 - expected_values:
-    AUDI_MISFIRES_C3: 11945
+    S5_MISFIRES_C3_ECM: 11945
   response: 7E8056211502EA9
 - expected_values:
-    AUDI_MISFIRES_C3: 11946
+    S5_MISFIRES_C3_ECM: 11946
   response: 7E8056211502EAA
 - expected_values:
-    AUDI_MISFIRES_C3: 11949
+    S5_MISFIRES_C3_ECM: 11949
   response: 7E8056211502EAD
 - expected_values:
-    AUDI_MISFIRES_C3: 11957
+    S5_MISFIRES_C3_ECM: 11957
   response: 7E8056211502EB5

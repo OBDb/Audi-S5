@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.221150
 test_cases:
 - expected_values:
-    AUDI_MISFIRES_C3: 759
+    S5_MISFIRES_C3_ECM: 759
   response: 7E80562115002F7
