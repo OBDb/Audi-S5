@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22114B
+test_cases:
+- expected_values:
+    S5_MIS_PER_1000_2_7E0_7E0: 0
+  response: 7E80562114B0000
+- expected_values:
+    S5_MIS_PER_1000_2_7E0_7E0: 1
+  response: 7E80562114B0001

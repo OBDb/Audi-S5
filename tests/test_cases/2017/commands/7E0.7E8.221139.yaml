@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    S5_MEAN_INJ_QUANTITY: 148.41
+  response: 7E80562113939F9
+- expected_values:
+    S5_MEAN_INJ_QUANTITY: 156.3
+  response: 7E8056211393D0E
+- expected_values:
+    S5_MEAN_INJ_QUANTITY: 158.71
+  response: 7E8056211393DFF
+- expected_values:
+    S5_MEAN_INJ_QUANTITY: 175.17
+  response: 7E805621139446D

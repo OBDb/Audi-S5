@@ -1,17 +1,11 @@
 command_id: 746.7B0.222609|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_AAT_V2: 0.5
-    AUDI_HVAC_OUTSIDE_T: 34.5
-    AUDI_PQ35_OUT_T: 0.5
+    S5_AAT: 34.5
   response: 7B0056226090159
 - expected_values:
-    AUDI_AAT_V2: 0.5
-    AUDI_HVAC_OUTSIDE_T: 48
-    AUDI_PQ35_OUT_T: 0.5
+    S5_AAT: 48
   response: 7B00562260901E0
 - expected_values:
-    AUDI_AAT_V2: 1
-    AUDI_HVAC_OUTSIDE_T: 53
-    AUDI_PQ35_OUT_T: 1
+    S5_AAT: 53
   response: 7B0056226090212

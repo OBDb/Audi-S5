@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22121E
+test_cases:
+- expected_values:
+    S5_SPEC_VALUE_RAIL_P: 331800
+  response: 7E80562121E0CF6
+- expected_values:
+    S5_SPEC_VALUE_RAIL_P: 331900
+  response: 7E80562121E0CF7
+- expected_values:
+    S5_SPEC_VALUE_RAIL_P: 332100
+  response: 7E80562121E0CF9
+- expected_values:
+    S5_SPEC_VALUE_RAIL_P: 332200
+  response: 7E80562121E0CFA
+- expected_values:
+    S5_SPEC_VALUE_RAIL_P: 332400
+  response: 7E80562121E0CFC
+- expected_values:
+    S5_SPEC_VALUE_RAIL_P: 333300
+  response: 7E80562121E0D05
+- expected_values:
+    S5_SPEC_VALUE_RAIL_P: 333400
+  response: 7E80562121E0D06
+- expected_values:
+    S5_SPEC_VALUE_RAIL_P: 348300
+  response: 7E80562121E0D9B

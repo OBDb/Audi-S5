@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2214CB
 test_cases:
 - expected_values:
-    AUDI_GEAR_V2: 0
+    S5_GEAR_V2: 0
   response: 7E8046214CB00
 - expected_values:
-    AUDI_GEAR_V2: 1
+    S5_GEAR_V2: 1
   response: 7E8046214CB01
 - expected_values:
-    AUDI_GEAR_V2: 2
+    S5_GEAR_V2: 2
   response: 7E8046214CB02
 - expected_values:
-    AUDI_GEAR_V2: 3
+    S5_GEAR_V2: 3
   response: 7E8046214CB03

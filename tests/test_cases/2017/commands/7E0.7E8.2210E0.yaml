@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2210E0
+test_cases:
+- expected_values:
+    S5_ODO: 154368
+  response: 7E8076210E000025B00
+- expected_values:
+    S5_ODO: 154378
+  response: 7E8076210E000025B0A
+- expected_values:
+    S5_ODO: 154388
+  response: 7E8076210E000025B14
+- expected_values:
+    S5_ODO: 154404
+  response: 7E8076210E000025B24
+- expected_values:
+    S5_ODO: 154407
+  response: 7E8076210E000025B27
+- expected_values:
+    S5_ODO: 154408
+  response: 7E8076210E000025B28
+- expected_values:
+    S5_ODO: 154409
+  response: 7E8076210E000025B29
+- expected_values:
+    S5_ODO: 154425
+  response: 7E8076210E000025B39
+- expected_values:
+    S5_ODO: 154444
+  response: 7E8076210E000025B4C
+- expected_values:
+    S5_ODO: 154468
+  response: 7E8076210E000025B64

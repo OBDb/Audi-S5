@@ -1,7 +1,7 @@
 command_id: 7E1.7E9.221010
 test_cases:
 - expected_values:
-    AUDI_MQB_TCM_CONVERTER_LOSS_TORQUE: 3.5
+    S5_MQB_TCM_CONVERTER_LOSS_TORQUE: 3.5
   response: |-
     7E910866210100046E4
     7E9210001001F400000
