@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22112C
+command_id: 7E0.7E8.22112C|f=-2017
 test_cases:
 - expected_values:
     S5_ACT: 0
