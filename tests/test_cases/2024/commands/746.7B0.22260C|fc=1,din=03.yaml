@@ -1,14 +1,14 @@
 command_id: 746.7B0.22260C|fc=1,din=03
 test_cases:
 - expected_values:
-    S5_CLIMATE_FR_L_DEFL_T: 0
+    S5_CLIMATE_FR_L_DEFL_T: 8.9
   response: 7B00562260C0059
 - expected_values:
-    S5_CLIMATE_FR_L_DEFL_T: 0
+    S5_CLIMATE_FR_L_DEFL_T: 25.5
   response: 7B00562260C00FF
 - expected_values:
-    S5_CLIMATE_FR_L_DEFL_T: 0.33333
+    S5_CLIMATE_FR_L_DEFL_T: 25.6
   response: 7B00562260C0100
 - expected_values:
-    S5_CLIMATE_FR_L_DEFL_T: 0.66667
+    S5_CLIMATE_FR_L_DEFL_T: 52.5
   response: 7B00562260C020D
