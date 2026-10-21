@@ -1,8 +1,8 @@
 command_id: 746.7B0.22260D|fc=1,din=03
 test_cases:
 - expected_values:
-    S5_CLIMATE_FR_R_DEFL_T: 0
+    S5_CLIMATE_FR_R_DEFL_T: 18.1
   response: 7B00562260D00B5
 - expected_values:
-    S5_CLIMATE_FR_R_DEFL_T: 0
+    S5_CLIMATE_FR_R_DEFL_T: 18.6
   response: 7B00562260D00BA

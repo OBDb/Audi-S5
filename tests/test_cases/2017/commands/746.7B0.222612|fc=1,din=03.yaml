@@ -1,11 +1,11 @@
 command_id: 746.7B0.222612|fc=1,din=03
 test_cases:
 - expected_values:
-    S5_CLIMATE_T_AFTER_EVAP: 0
+    S5_CLIMATE_T_AFTER_EVAP: 3
   response: 7B005622612001E
 - expected_values:
-    S5_CLIMATE_T_AFTER_EVAP: 0
+    S5_CLIMATE_T_AFTER_EVAP: 15.9
   response: 7B005622612009F
 - expected_values:
-    S5_CLIMATE_T_AFTER_EVAP: 0.33333
+    S5_CLIMATE_T_AFTER_EVAP: 33.7
   response: 7B0056226120151
