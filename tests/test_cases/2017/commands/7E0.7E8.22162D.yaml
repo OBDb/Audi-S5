@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.22162D
 test_cases:
 - expected_values:
-    S5_PQ35_FUEL_T: 0
+    S5_PQ35_FUEL_T: null
   response: 7E80762162D00000000
 - expected_values:
-    S5_PQ35_FUEL_T: 2048
+    S5_PQ35_FUEL_T: null
   response: 7E80762162D00000800
 - expected_values:
-    S5_PQ35_FUEL_T: 33554432
+    S5_PQ35_FUEL_T: null
   response: 7E80762162D02000000
 - expected_values:
-    S5_PQ35_FUEL_T: 33556480
+    S5_PQ35_FUEL_T: null
   response: 7E80762162D02000800
 - expected_values:
-    S5_PQ35_FUEL_T: 2181038080
+    S5_PQ35_FUEL_T: null
   response: 7E80762162D82000000

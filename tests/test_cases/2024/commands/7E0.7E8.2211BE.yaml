@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
-    S5_PQ35_OIL_T_2: 0
+    S5_PQ35_OIL_T_2: null
   response: 7E8056211BE0000
 - expected_values:
-    S5_PQ35_OIL_T_2: -1
+    S5_PQ35_OIL_T_2: null
   response: 7E8056211BEFFFF
