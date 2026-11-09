@@ -1,0 +1,5 @@
+command_id: 746.7B0.22260A|fc=1
+test_cases:
+- expected_values:
+    S5_OUTSIDE_T_SYSTEM: 13.2
+  response: 7B00562260A0084

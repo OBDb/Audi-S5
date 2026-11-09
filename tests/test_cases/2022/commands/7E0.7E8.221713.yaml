@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221713
+test_cases:
+- expected_values:
+    S5_TOT_MASS_GASOLINE: 3.58394
+  response: 7E80562171300A8

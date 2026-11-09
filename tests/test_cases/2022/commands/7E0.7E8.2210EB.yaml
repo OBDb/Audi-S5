@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210EB
+test_cases:
+- expected_values:
+    S5_CRANK_ROT_ANG: 78
+  response: 7E8056210EB030C

@@ -1,0 +1,5 @@
+command_id: 746.7B0.2227C4|fc=1
+test_cases:
+- expected_values:
+    S5_WINDSHIELD_T: 30.896
+  response: 7B0076227C479402F80

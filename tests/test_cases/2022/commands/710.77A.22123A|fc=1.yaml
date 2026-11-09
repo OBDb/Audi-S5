@@ -1,0 +1,8 @@
+command_id: 710.77A.22123A|fc=1
+test_cases:
+- expected_values:
+    S5_BZE_Q_ELAD: 12401.1
+    S5_BZE_Q_LAD: 12423
+  response: |-
+    77A100B62123A0001E5
+    77A21460001E46BAAAA

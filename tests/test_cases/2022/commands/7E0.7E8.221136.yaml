@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221136
+test_cases:
+- expected_values:
+    S5_HEIGHT_CORR: 1.00555
+  response: 7E805621136405B

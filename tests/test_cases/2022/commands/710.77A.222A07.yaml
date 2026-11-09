@@ -1,0 +1,5 @@
+command_id: 710.77A.222A07
+test_cases:
+- expected_values:
+    S5_BAT_V_2A07: 15.198
+  response: 77A05622A072BBE

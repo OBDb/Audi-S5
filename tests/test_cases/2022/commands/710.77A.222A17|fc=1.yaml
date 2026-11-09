@@ -1,0 +1,5 @@
+command_id: 710.77A.222A17|fc=1
+test_cases:
+- expected_values:
+    S5_OVERALL_ENERGY: 5196.45
+  response: 77A06622A17001355
