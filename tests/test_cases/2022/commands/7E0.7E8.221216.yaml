@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221216
+test_cases:
+- expected_values:
+    S5_REL_LOAD: 23.53407
+  response: 7E80562121603EC

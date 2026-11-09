@@ -1,0 +1,5 @@
+command_id: 713.77D.222B29
+test_cases:
+- expected_values:
+    S5_STEER_ANGLE: -1.622
+  response: 77D05622B29F9AA

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222AE3
+test_cases:
+- expected_values:
+    S5_EGT_AFTER_CAT_MODEL_B: -273
+  response: 7E805622AE30000

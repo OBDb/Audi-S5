@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211D7
+test_cases:
+- expected_values:
+    S5_HIGH_FUEL_P_CMD: 11.656
+  response: 7E8056211D75B10

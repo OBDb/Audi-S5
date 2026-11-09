@@ -1,0 +1,5 @@
+command_id: 746.7B0.222609|fc=1,din=03
+test_cases:
+- expected_values:
+    S5_AAT: 14
+  response: 7B005622609008C

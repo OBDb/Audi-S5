@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211BA
+test_cases:
+- expected_values:
+    S5_OIL_LEVEL: 7.1076
+  response: '7E8 05 62 11 BA 45 69 '

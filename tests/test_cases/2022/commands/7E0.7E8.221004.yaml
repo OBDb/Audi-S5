@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221004
+test_cases:
+- expected_values:
+    S5_AAT_V2: 0.71875
+  response: 7E805621004005C
