@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     S5_BAT_I: 14.3
   response: 77A07622A09000037DC
+- expected_values:
+    S5_BAT_I: 47.25
+  response: 77A07622A090000B892
+- expected_values:
+    S5_BAT_I: 62.14
+  response: 77A07622A090000F2BC
+- expected_values:
+    S5_BAT_I: 64.72
+  response: 77A07622A090000FCD0
+- expected_values:
+    S5_BAT_I: 80.46
+  response: 77A07622A0900013A4C
+- expected_values:
+    S5_BAT_I: -8.848
+  response: 77A07622A09FFFFDD70

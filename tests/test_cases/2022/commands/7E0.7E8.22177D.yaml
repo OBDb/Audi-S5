@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22177D
+test_cases:
+- expected_values:
+    S5_OIL_P_ACT_7E0: 101.3
+  response: 7E80562177D03F5
+- expected_values:
+    S5_OIL_P_ACT_7E0: 240.4
+  response: 7E80562177D0964
+- expected_values:
+    S5_OIL_P_ACT_7E0: 246.3
+  response: 7E80562177D099F
+- expected_values:
+    S5_OIL_P_ACT_7E0: 248.5
+  response: 7E80562177D09B5

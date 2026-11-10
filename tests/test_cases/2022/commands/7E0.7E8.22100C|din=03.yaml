@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22100C|din=03
+test_cases:
+- expected_values:
+    S5_PQ35_FUEL_LVL_2: 0
+  response: 7E80762100C00000046
+- expected_values:
+    S5_PQ35_FUEL_LVL_2: 0
+  response: 7E80762100C00000BC2
+- expected_values:
+    S5_PQ35_FUEL_LVL_2: 0
+  response: 7E80762100C0000155E
+- expected_values:
+    S5_PQ35_FUEL_LVL_2: 0
+  response: 7E80762100C00001B30

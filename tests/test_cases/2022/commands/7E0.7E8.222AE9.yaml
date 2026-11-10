@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222AE9
+test_cases:
+- expected_values:
+    S5_EXH_GAS_T_CALC_AFTER: 433.61288
+  response: 7E805622AE975C8
+- expected_values:
+    S5_EXH_GAS_T_CALC_AFTER: 443.22328
+  response: 7E805622AE97762
+- expected_values:
+    S5_EXH_GAS_T_CALC_AFTER: 488.11088
+  response: 7E805622AE97EDD
+- expected_values:
+    S5_EXH_GAS_T_CALC_AFTER: 572.42456
+  response: 7E805622AE98CEA

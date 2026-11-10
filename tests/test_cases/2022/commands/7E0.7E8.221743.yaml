@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.221743
 test_cases:
 - expected_values:
+    S5_INTEGRATED_MASS_AIR_SINCE: 1086.94692
+  response: 7E8056217430BF1
+- expected_values:
     S5_INTEGRATED_MASS_AIR_SINCE: 1176.19248
   response: 7E8056217430CEC
+- expected_values:
+    S5_INTEGRATED_MASS_AIR_SINCE: 3321.64152
+  response: 7E805621743247E
+- expected_values:
+    S5_INTEGRATED_MASS_AIR_SINCE: 5663.00412
+  response: 7E8056217433E37
+- expected_values:
+    S5_INTEGRATED_MASS_AIR_SINCE: 6940.17564
+  response: 7E8056217434C3F

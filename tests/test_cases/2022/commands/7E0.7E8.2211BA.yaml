@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     S5_OIL_LEVEL: 7.1076
   response: '7E8 05 62 11 BA 45 69 '
+- expected_values:
+    S5_OIL_LEVEL: 6.426
+  response: 7E8056211BA3EC1
+- expected_values:
+    S5_OIL_LEVEL: 7.396
+  response: 7E8056211BA483A
+- expected_values:
+    S5_OIL_LEVEL: 7.4332
+  response: 7E8056211BA4897
+- expected_values:
+    S5_OIL_LEVEL: 8.4516
+  response: 7E8056211BA5289

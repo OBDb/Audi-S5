@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.221029
+test_cases:
+- expected_values:
+    S5_CURRENT_N371_P_CTRL_6: 0
+  response: '7E9056210290000'
+- expected_values:
+    S5_CURRENT_N371_P_CTRL_6: 50
+  response: 7E90562102901F4
+- expected_values:
+    S5_CURRENT_N371_P_CTRL_6: 353.2
+  response: 7E9056210290DCC
+- expected_values:
+    S5_CURRENT_N371_P_CTRL_6: 366.8
+  response: 7E9056210290E54

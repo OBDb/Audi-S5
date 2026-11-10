@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211DF
+test_cases:
+- expected_values:
+    S5_POWERTRAIN_OVERALL: 1.81
+  response: 7E8056211DF00B5
+- expected_values:
+    S5_POWERTRAIN_OVERALL: 3.73
+  response: 7E8056211DF0175
+- expected_values:
+    S5_POWERTRAIN_OVERALL: 14.24
+  response: 7E8056211DF0590
+- expected_values:
+    S5_POWERTRAIN_OVERALL: 16.97
+  response: 7E8056211DF06A1

@@ -2,4 +2,16 @@ command_id: 7E0.7E8.221213
 test_cases:
 - expected_values:
     S5_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E80762121300004DB3
+- expected_values:
+    S5_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E8076212130000543A
+- expected_values:
+    S5_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E8076212130000758D
+- expected_values:
+    S5_PQ35_ENVD_CAM_IN_1: 0
   response: 7E80762121300007A65
+- expected_values:
+    S5_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E807621213000080C8

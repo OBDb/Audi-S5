@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2213F6
+test_cases:
+- expected_values:
+    S5_NL_PRE_0: 0
+  response: 7E8056213F60000

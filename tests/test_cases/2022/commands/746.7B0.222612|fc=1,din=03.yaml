@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     S5_CLIMATE_T_AFTER_EVAP: 3.3
   response: 7B0056226120021
+- expected_values:
+    S5_CLIMATE_T_AFTER_EVAP: 20
+  response: 7B00562261200C8
+- expected_values:
+    S5_CLIMATE_T_AFTER_EVAP: 22.2
+  response: 7B00562261200DE
+- expected_values:
+    S5_CLIMATE_T_AFTER_EVAP: 24
+  response: 7B00562261200F0

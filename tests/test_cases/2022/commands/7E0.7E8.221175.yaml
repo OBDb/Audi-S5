@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221175
+test_cases:
+- expected_values:
+    S5_INTEGRATED_MASS_AIR: 0
+  response: '7E8056211750000'
+- expected_values:
+    S5_INTEGRATED_MASS_AIR: 1615.66464
+  response: 7E80562117511C0
+- expected_values:
+    S5_INTEGRATED_MASS_AIR: 4619.43552
+  response: 7E80562117532C0
+- expected_values:
+    S5_INTEGRATED_MASS_AIR: 6164.69928
+  response: 7E80562117543BA

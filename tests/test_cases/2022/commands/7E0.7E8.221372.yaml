@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221372
+test_cases:
+- expected_values:
+    S5_CAM_ADJ_EXH_BANK_2_SPEC: 5.784
+  response: 7E80562137202D3
+- expected_values:
+    S5_CAM_ADJ_EXH_BANK_2_SPEC: -12.32
+  response: 7E805621372F9FC
+- expected_values:
+    S5_CAM_ADJ_EXH_BANK_2_SPEC: -12.312
+  response: 7E805621372F9FD
+- expected_values:
+    S5_CAM_ADJ_EXH_BANK_2_SPEC: -12.048
+  response: 7E805621372FA1E

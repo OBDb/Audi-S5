@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     S5_DASH_AMBIENT_AIR_T: 13.5
   response: 77E046210147F
+- expected_values:
+    S5_DASH_AMBIENT_AIR_T: 16
+  response: '77E0462101484'
+- expected_values:
+    S5_DASH_AMBIENT_AIR_T: 17
+  response: '77E0462101486'
+- expected_values:
+    S5_DASH_AMBIENT_AIR_T: 17.5
+  response: '77E0462101487'

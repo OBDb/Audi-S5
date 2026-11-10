@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211C9
+test_cases:
+- expected_values:
+    S5_FUEL_PMP_ADPT: -43.6
+  response: 7E8056211C9FE4C
+- expected_values:
+    S5_FUEL_PMP_ADPT: -41.7
+  response: 7E8056211C9FE5F
+- expected_values:
+    S5_FUEL_PMP_ADPT: -41.3
+  response: 7E8056211C9FE63
+- expected_values:
+    S5_FUEL_PMP_ADPT: -41.2
+  response: 7E8056211C9FE64

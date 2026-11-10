@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211F0
+test_cases:
+- expected_values:
+    S5_BOOST_P_ACT: 101.76562
+  response: 7E8056211F032E2
+- expected_values:
+    S5_BOOST_P_ACT: 101.92188
+  response: 7E8056211F032F6
+- expected_values:
+    S5_BOOST_P_ACT: 102
+  response: 7E8056211F03300
+- expected_values:
+    S5_BOOST_P_ACT: 102.07812
+  response: 7E8056211F0330A

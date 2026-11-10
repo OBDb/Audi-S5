@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221212
+test_cases:
+- expected_values:
+    S5_KNOCK_SENS_CYL_2_7E0: 0.01232
+  response: 7E80762121200003F29
+- expected_values:
+    S5_KNOCK_SENS_CYL_2_7E0: 0.0205
+  response: 7E8076212120000691C
+- expected_values:
+    S5_KNOCK_SENS_CYL_2_7E0: 0.04221
+  response: 7E8076212120000D85F
+- expected_values:
+    S5_KNOCK_SENS_CYL_2_7E0: 0.04581
+  response: 7E8076212120000EADC

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211AC
+test_cases:
+- expected_values:
+    S5_MAF_THROUGH_THROTTLE: 0
+  response: 7E8056211AC0000
+- expected_values:
+    S5_MAF_THROUGH_THROTTLE: 17.4
+  response: 7E8056211AC00AE
+- expected_values:
+    S5_MAF_THROUGH_THROTTLE: 28.3
+  response: 7E8056211AC011B
+- expected_values:
+    S5_MAF_THROUGH_THROTTLE: 130.9
+  response: 7E8056211AC051D

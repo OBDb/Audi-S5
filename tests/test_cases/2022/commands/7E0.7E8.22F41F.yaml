@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
+    S5_RUNTM: 64
+  response: 7E80562F41F0040
+- expected_values:
     S5_RUNTM: 90
   response: 7E80562F41F005A
+- expected_values:
+    S5_RUNTM: 254
+  response: 7E80562F41F00FE
+- expected_values:
+    S5_RUNTM: 393
+  response: 7E80562F41F0189
+- expected_values:
+    S5_RUNTM: 516
+  response: 7E80562F41F0204

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F40D
+test_cases:
+- expected_values:
+    S5_VSS: 1
+  response: 7E80462F40D01
+- expected_values:
+    S5_VSS: 2
+  response: 7E80462F40D02
+- expected_values:
+    S5_VSS: 35
+  response: 7E80462F40D23
+- expected_values:
+    S5_VSS: 76
+  response: 7E80462F40D4C

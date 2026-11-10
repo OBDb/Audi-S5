@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.22430E
 test_cases:
 - expected_values:
+    S5_NUM_INJECTIONS: 3551
+  response: 7E80562430E0DDF
+- expected_values:
     S5_NUM_INJECTIONS: 4360
   response: 7E80562430E1108
+- expected_values:
+    S5_NUM_INJECTIONS: 15059
+  response: 7E80562430E3AD3
+- expected_values:
+    S5_NUM_INJECTIONS: 20788
+  response: 7E80562430E5134
+- expected_values:
+    S5_NUM_INJECTIONS: 24956
+  response: 7E80562430E617C

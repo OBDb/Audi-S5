@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22120F|fc=1,c=17
+test_cases:
+- expected_values:
+    S5_KNOCK_SNS_C3_V_MS: 0.01956
+  response: 7E80762120F00006422
+- expected_values:
+    S5_KNOCK_SNS_C3_V_MS: 0.03786
+  response: 7E80762120F0000C1D2
+- expected_values:
+    S5_KNOCK_SNS_C3_V_MS: 0.04405
+  response: 7E80762120F0000E183
+- expected_values:
+    S5_KNOCK_SNS_C3_V_MS: 0.0448
+  response: 7E80762120F0000E55E

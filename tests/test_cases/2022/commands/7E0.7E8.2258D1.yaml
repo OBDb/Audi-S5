@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2258D1
+test_cases:
+- expected_values:
+    S5_ENG_OIL_LEVEL: 8.1
+  response: |-
+    7E810116258D100014D
+    7E8212C00014D2B032A
+    7E82200060007000000

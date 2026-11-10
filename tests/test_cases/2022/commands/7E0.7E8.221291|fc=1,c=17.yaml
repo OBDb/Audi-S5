@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221291|fc=1,c=17
+test_cases:
+- expected_values:
+    S5_COOLANT_T_AT_ENGINE_START: 24.1
+  response: 7E8056212910B9C
+- expected_values:
+    S5_COOLANT_T_AT_ENGINE_START: 96.8
+  response: 7E8056212910E73

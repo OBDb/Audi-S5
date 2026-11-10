@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.2210EB
 test_cases:
 - expected_values:
+    S5_CRANK_ROT_ANG: 37.1
+  response: 7E8056210EB0173
+- expected_values:
+    S5_CRANK_ROT_ANG: 57
+  response: 7E8056210EB023A
+- expected_values:
+    S5_CRANK_ROT_ANG: 62.7
+  response: 7E8056210EB0273
+- expected_values:
     S5_CRANK_ROT_ANG: 78
   response: 7E8056210EB030C
+- expected_values:
+    S5_CRANK_ROT_ANG: 78.3
+  response: 7E8056210EB030F

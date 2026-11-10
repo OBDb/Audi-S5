@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22174B
+test_cases:
+- expected_values:
+    S5_INT_CAM_ADPT_BIAS: 0.04395
+  response: 7E80562174B0002
+- expected_values:
+    S5_INT_CAM_ADPT_BIAS: 0.30762
+  response: 7E80562174B000E
+- expected_values:
+    S5_INT_CAM_ADPT_BIAS: 0.41749
+  response: 7E80562174B0013
+- expected_values:
+    S5_INT_CAM_ADPT_BIAS: -0.13184
+  response: 7E80562174BFFFA

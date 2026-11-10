@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222130
+test_cases:
+- expected_values:
+    S5_TQ_CONV: 1
+  response: '7E90462213064'
+- expected_values:
+    S5_TQ_CONV: 1.08
+  response: 7E9046221306C

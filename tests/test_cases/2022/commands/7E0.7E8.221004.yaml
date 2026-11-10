@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     S5_AAT_V2: 0.71875
   response: 7E805621004005C
+- expected_values:
+    S5_AAT_V2: 0.86719
+  response: 7E805621004006F
+- expected_values:
+    S5_AAT_V2: -1.25781
+  response: 7E805621004FF5F
+- expected_values:
+    S5_AAT_V2: -0.45312
+  response: 7E805621004FFC6
+- expected_values:
+    S5_AAT_V2: -0.17188
+  response: 7E805621004FFEA

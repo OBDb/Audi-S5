@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     S5_WINDSHIELD_T: 30.896
   response: 7B0076227C479402F80
+- expected_values:
+    S5_WINDSHIELD_T: 35.504
+  response: 7B0076227C481002440
+- expected_values:
+    S5_WINDSHIELD_T: 36.08
+  response: 7B0076227C482802680
+- expected_values:
+    S5_WINDSHIELD_T: 36.656
+  response: 7B0076227C483802780
+- expected_values:
+    S5_WINDSHIELD_T: 37.808
+  response: 7B0076227C485002900

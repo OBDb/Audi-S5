@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221097|fc=1,c=17
+test_cases:
+- expected_values:
+    S5_GENERATOR_PERFORMANCE: 0
+  response: '7E8056210970000'
+- expected_values:
+    S5_GENERATOR_PERFORMANCE: 1998.0576
+  response: 7E80562109700D4
+- expected_values:
+    S5_GENERATOR_PERFORMANCE: 2393.8992
+  response: 7E80562109700FE
+- expected_values:
+    S5_GENERATOR_PERFORMANCE: 2742.6168
+  response: '7E8056210970123'

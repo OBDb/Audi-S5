@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2215C0
+test_cases:
+- expected_values:
+    S5_IAT_RAW: 18.4
+  response: 7E8056215C00B63
+- expected_values:
+    S5_IAT_RAW: 19.4
+  response: 7E8056215C00B6D
+- expected_values:
+    S5_IAT_RAW: 21.2
+  response: 7E8056215C00B7F
+- expected_values:
+    S5_IAT_RAW: 21.5
+  response: 7E8056215C00B82

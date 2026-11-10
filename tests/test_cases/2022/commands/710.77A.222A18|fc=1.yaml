@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     S5_ENTIRE_ENERGY: 12401.1
   response: 77A06622A1801E46B
+- expected_values:
+    S5_ENTIRE_ENERGY: 12419.1
+  response: 77A06622A1801E51F
+- expected_values:
+    S5_ENTIRE_ENERGY: 12419.5
+  response: 77A06622A1801E523

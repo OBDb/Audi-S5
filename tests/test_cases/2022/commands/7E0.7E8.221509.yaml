@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221509
+test_cases:
+- expected_values:
+    S5_AMBIENT_AIR_P: 1018.173
+  response: 7E80562150965FB
+- expected_values:
+    S5_AMBIENT_AIR_P: 1018.563
+  response: '7E8056215096605'
+- expected_values:
+    S5_AMBIENT_AIR_P: 1019.538
+  response: 7E805621509661E
+- expected_values:
+    S5_AMBIENT_AIR_P: 1019.733
+  response: '7E8056215096623'

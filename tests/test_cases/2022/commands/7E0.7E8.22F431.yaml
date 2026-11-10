@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     S5_CLR_DIST: 12961
   response: 7E80562F43132A1
+- expected_values:
+    S5_CLR_DIST: 13022
+  response: 7E80562F43132DE
+- expected_values:
+    S5_CLR_DIST: 13024
+  response: 7E80562F43132E0
+- expected_values:
+    S5_CLR_DIST: 13026
+  response: 7E80562F43132E2

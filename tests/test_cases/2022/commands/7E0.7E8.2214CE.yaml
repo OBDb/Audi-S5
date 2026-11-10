@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2214CE
+test_cases:
+- expected_values:
+    S5_PQ35_POST_INJ_3_ACTIVATION_DURATION: 2.056
+  response: 7E8056214CE1414
+- expected_values:
+    S5_PQ35_POST_INJ_3_ACTIVATION_DURATION: 2.0624
+  response: 7E8056214CE1424

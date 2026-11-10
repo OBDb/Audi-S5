@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2251D4
+test_cases:
+- expected_values:
+    S5_CYL_BLOCK_T_SENS: 60.8
+  response: 7E8056251D40D0B
+- expected_values:
+    S5_CYL_BLOCK_T_SENS: 99
+  response: 7E8056251D40E89
+- expected_values:
+    S5_CYL_BLOCK_T_SENS: 99.2
+  response: 7E8056251D40E8B
+- expected_values:
+    S5_CYL_BLOCK_T_SENS: 99.7
+  response: 7E8056251D40E90

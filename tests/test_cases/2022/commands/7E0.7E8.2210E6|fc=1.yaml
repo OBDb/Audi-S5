@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210E6|fc=1
+test_cases:
+- expected_values:
+    S5_EOT_7E0: -60
+  response: 7E8046210E600

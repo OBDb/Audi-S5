@@ -6,3 +6,33 @@ test_cases:
   response: |-
     77A100B62123A0001E5
     77A21460001E46BAAAA
+- expected_values:
+    S5_BZE_Q_ELAD: 12419.1
+    S5_BZE_Q_LAD: 12427.7
+  response: |-
+    77A100B62123A0001E5
+    77A21750001E51FAAAA
+- expected_values:
+    S5_BZE_Q_ELAD: 12419.1
+    S5_BZE_Q_LAD: 12431.4
+  response: |-
+    77A100B62123A0001E5
+    77A219A0001E51FAAAA
+- expected_values:
+    S5_BZE_Q_ELAD: 12419.1
+    S5_BZE_Q_LAD: 12434.1
+  response: |-
+    77A100B62123A0001E5
+    77A21B50001E51FAAAA
+- expected_values:
+    S5_BZE_Q_ELAD: 12419.1
+    S5_BZE_Q_LAD: 12436.3
+  response: |-
+    77A100B62123A0001E5
+    77A21CB0001E51FAAAA
+- expected_values:
+    S5_BZE_Q_ELAD: 12419.5
+    S5_BZE_Q_LAD: 12437
+  response: |-
+    77A100B62123A0001E5
+    77A21D20001E523AAAA

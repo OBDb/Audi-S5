@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221484|fc=1
+test_cases:
+- expected_values:
+    S5_MIS_PER_1000_RPM_1: 0
+  response: '7E8056214840000'

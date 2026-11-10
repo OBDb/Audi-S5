@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.221005
+test_cases:
+- expected_values:
+    S5_VSS_ESP: 0
+  response: '7E9056210050000'
+- expected_values:
+    S5_VSS_ESP: 19.73
+  response: 7E90562100507B5
+- expected_values:
+    S5_VSS_ESP: 43.4
+  response: 7E90562100510F4
+- expected_values:
+    S5_VSS_ESP: 59.12
+  response: '7E9056210051718'

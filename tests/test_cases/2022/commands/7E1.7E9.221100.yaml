@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221100
+test_cases:
+- expected_values:
+    S5_ADPT_INFLATION_TIME: 70
+  response: '7E9056211000007'

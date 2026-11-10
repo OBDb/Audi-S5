@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     S5_ODO_MILEAGE_HR: 86299.32
   response: 77E076222B80524D2B8
+- expected_values:
+    S5_ODO_MILEAGE_HR: 86360.944
+  response: 77E076222B80525C370
+- expected_values:
+    S5_ODO_MILEAGE_HR: 86361.848
+  response: 77E076222B80525C6F8
+- expected_values:
+    S5_ODO_MILEAGE_HR: 86364.553
+  response: 77E076222B80525D189
+- expected_values:
+    S5_ODO_MILEAGE_HR: 86365.39
+  response: 77E076222B80525D4CE

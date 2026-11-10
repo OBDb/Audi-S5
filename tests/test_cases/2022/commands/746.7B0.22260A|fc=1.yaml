@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     S5_OUTSIDE_T_SYSTEM: 13.2
   response: 7B00562260A0084
+- expected_values:
+    S5_OUTSIDE_T_SYSTEM: 16.8
+  response: 7B00562260A00A8
+- expected_values:
+    S5_OUTSIDE_T_SYSTEM: 17.1
+  response: 7B00562260A00AB
+- expected_values:
+    S5_OUTSIDE_T_SYSTEM: 17.5
+  response: 7B00562260A00AF

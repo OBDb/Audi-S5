@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221066
+test_cases:
+- expected_values:
+    S5_ANALYSIS_CLU_1_T_1: 1239.06
+  response: 7E90562106601F2
+- expected_values:
+    S5_ANALYSIS_CLU_1_T_1: 174.12
+  response: '7E9056210660222'
+- expected_values:
+    S5_ANALYSIS_CLU_1_T_1: 942.12
+  response: 7E90562106602B8

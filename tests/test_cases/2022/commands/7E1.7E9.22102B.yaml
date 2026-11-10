@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.22102B
+test_cases:
+- expected_values:
+    S5_PQ35_CLUTCH_1_T: 0
+  response: 7E90462102B00
+- expected_values:
+    S5_PQ35_CLUTCH_1_T: 3
+  response: 7E90462102B03
+- expected_values:
+    S5_PQ35_CLUTCH_1_T: 22
+  response: 7E90462102B16
+- expected_values:
+    S5_PQ35_CLUTCH_1_T: 44
+  response: 7E90462102B2C

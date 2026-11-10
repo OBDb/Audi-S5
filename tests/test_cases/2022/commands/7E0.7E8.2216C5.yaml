@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     S5_THROTTLE_REGULATOR: 5.25
   response: 7E8056216C502A0
+- expected_values:
+    S5_THROTTLE_REGULATOR: 8.26562
+  response: 7E8056216C50422
+- expected_values:
+    S5_THROTTLE_REGULATOR: 9.25781
+  response: 7E8056216C504A1
+- expected_values:
+    S5_THROTTLE_REGULATOR: 14.84375
+  response: 7E8056216C5076C
+- expected_values:
+    S5_THROTTLE_REGULATOR: 21.02344
+  response: 7E8056216C50A83
