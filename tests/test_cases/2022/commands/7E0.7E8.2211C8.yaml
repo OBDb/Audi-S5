@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211C8
+test_cases:
+- expected_values:
+    S5_LOW_FUEL_P_ACT: 565.4
+  response: 7E8056211C81616
+- expected_values:
+    S5_LOW_FUEL_P_ACT: 581.9
+  response: 7E8056211C816BB
+- expected_values:
+    S5_LOW_FUEL_P_ACT: 598.7
+  response: 7E8056211C81763
+- expected_values:
+    S5_LOW_FUEL_P_ACT: 600.3
+  response: 7E8056211C81773

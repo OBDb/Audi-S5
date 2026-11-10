@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2215CA|fc=1,c=17
+test_cases:
+- expected_values:
+    S5_GENERATOR_LOAD_NORMALIZED_VALUE: 0
+  response: 7E8056215CA0000
+- expected_values:
+    S5_GENERATOR_LOAD_NORMALIZED_VALUE: 51.54
+  response: 7E8056215CA1422
+- expected_values:
+    S5_GENERATOR_LOAD_NORMALIZED_VALUE: 57.98
+  response: 7E8056215CA16A6
+- expected_values:
+    S5_GENERATOR_LOAD_NORMALIZED_VALUE: 67.65
+  response: 7E8056215CA1A6D

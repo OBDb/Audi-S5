@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222115
+test_cases:
+- expected_values:
+    S5_DYNAMIC_SHIFT: 0
+  response: '7E90462211500'

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22127B
+test_cases:
+- expected_values:
+    S5_VARIABLE_VLV_TIM_INT_1: 0
+  response: 7E80562127B0000
+- expected_values:
+    S5_VARIABLE_VLV_TIM_INT_1: 6.24999
+  response: 7E80562127B0800
+- expected_values:
+    S5_VARIABLE_VLV_TIM_INT_1: 40.82027
+  response: 7E80562127B3440

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221490
+test_cases:
+- expected_values:
+    S5_BRAKE_BOOSTER_LOW_P_ACT: 880.40189
+  response: 7E805621490580A
+- expected_values:
+    S5_BRAKE_BOOSTER_LOW_P_ACT: 912.19918
+  response: 7E8056214905B38
+- expected_values:
+    S5_BRAKE_BOOSTER_LOW_P_ACT: 936.84793
+  response: 7E8056214905DAF
+- expected_values:
+    S5_BRAKE_BOOSTER_LOW_P_ACT: 964.8561
+  response: 7E805621490607C

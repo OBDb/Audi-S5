@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.221216
 test_cases:
 - expected_values:
+    S5_REL_LOAD: 23.46375
+  response: 7E80562121603E9
+- expected_values:
     S5_REL_LOAD: 23.53407
   response: 7E80562121603EC
+- expected_values:
+    S5_REL_LOAD: 27.097
+  response: '7E8056212160484'
+- expected_values:
+    S5_REL_LOAD: 44.53659
+  response: 7E805621216076C
+- expected_values:
+    S5_REL_LOAD: 47.30254
+  response: 7E80562121607E2

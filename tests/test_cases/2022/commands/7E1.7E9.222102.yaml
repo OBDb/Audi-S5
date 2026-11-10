@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.222102
+test_cases:
+- expected_values:
+    S5_MQB_TCM_TRANSMISSION_INPUT_SPD: 0
+  response: '7E9056221020000'
+- expected_values:
+    S5_MQB_TCM_TRANSMISSION_INPUT_SPD: 483
+  response: 7E905622102078C
+- expected_values:
+    S5_MQB_TCM_TRANSMISSION_INPUT_SPD: 882
+  response: 7E9056221020DC8
+- expected_values:
+    S5_MQB_TCM_TRANSMISSION_INPUT_SPD: 1047
+  response: 7E905622102105C

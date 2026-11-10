@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     S5_PQ35_ODO: 86299
   response: 77E0662220301511B
+- expected_values:
+    S5_PQ35_ODO: 86360
+  response: '77E06622203015158'
+- expected_values:
+    S5_PQ35_ODO: 86361
+  response: '77E06622203015159'
+- expected_values:
+    S5_PQ35_ODO: 86364
+  response: 77E0662220301515C
+- expected_values:
+    S5_PQ35_ODO: 86365
+  response: 77E0662220301515D

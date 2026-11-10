@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222110
+test_cases:
+- expected_values:
+    S5_ENG_SPEC_TQ_DURING: 7
+  response: '7E9056221100007'
+- expected_values:
+    S5_ENG_SPEC_TQ_DURING: 177
+  response: 7E90562211000B1
+- expected_values:
+    S5_ENG_SPEC_TQ_DURING: 187
+  response: 7E90562211000BB

@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     S5_ENERGY_BALANCE_LAST: 0.3
   response: 77A05622A15001E
+- expected_values:
+    S5_ENERGY_BALANCE_LAST: 1
+  response: 77A05622A150064
+- expected_values:
+    S5_ENERGY_BALANCE_LAST: 4.7
+  response: 77A05622A1501D6
+- expected_values:
+    S5_ENERGY_BALANCE_LAST: 7.4
+  response: 77A05622A1502E4
+- expected_values:
+    S5_ENERGY_BALANCE_LAST: 9.6
+  response: 77A05622A1503C0
+- expected_values:
+    S5_ENERGY_BALANCE_LAST: 10.3
+  response: 77A05622A150406

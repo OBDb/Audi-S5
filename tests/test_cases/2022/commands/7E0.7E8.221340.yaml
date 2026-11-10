@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221340
+test_cases:
+- expected_values:
+    S5_TQ_INCREASE_REQ_ESP: -46661.6
+  response: 7E807621340FFF8E148
+- expected_values:
+    S5_TQ_INCREASE_REQ_ESP: -16023.5
+  response: 7E807621340FFFD8E15
+- expected_values:
+    S5_TQ_INCREASE_REQ_ESP: -5931
+  response: 7E807621340FFFF1852

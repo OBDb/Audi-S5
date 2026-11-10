@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221224
+test_cases:
+- expected_values:
+    S5_TQ_LOSS_ADPT_GEAR: -8.2
+  response: 7E805621224FFAE
+- expected_values:
+    S5_TQ_LOSS_ADPT_GEAR: -6.9
+  response: 7E805621224FFBB
+- expected_values:
+    S5_TQ_LOSS_ADPT_GEAR: -5.7
+  response: 7E805621224FFC7

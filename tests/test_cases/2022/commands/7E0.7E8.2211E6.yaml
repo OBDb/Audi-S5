@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211E6
+test_cases:
+- expected_values:
+    S5_MQB_DPF_EXH_VOL: 66.4
+  response: 7E8056211E60298
+- expected_values:
+    S5_MQB_DPF_EXH_VOL: 74.5
+  response: 7E8056211E602E9
+- expected_values:
+    S5_MQB_DPF_EXH_VOL: 128.6
+  response: 7E8056211E60506
+- expected_values:
+    S5_MQB_DPF_EXH_VOL: 296.7
+  response: 7E8056211E60B97

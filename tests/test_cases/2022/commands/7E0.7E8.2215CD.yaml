@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2215CD
+test_cases:
+- expected_values:
+    S5_ECT_RADIATOR_OUTLET_V_1: 18.8
+  response: 7E8056215CD0B67
+- expected_values:
+    S5_ECT_RADIATOR_OUTLET_V_1: 19.2
+  response: 7E8056215CD0B6B
+- expected_values:
+    S5_ECT_RADIATOR_OUTLET_V_1: 27.1
+  response: 7E8056215CD0BBA

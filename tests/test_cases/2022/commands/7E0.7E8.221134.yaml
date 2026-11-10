@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221134
+test_cases:
+- expected_values:
+    S5_SEG_AD_MMV_ER_MID_2: 0.69404
+  response: 7E8056211340B5F
+- expected_values:
+    S5_SEG_AD_MMV_ER_MID_2: 0.69571
+  response: 7E8056211340B66
+- expected_values:
+    S5_SEG_AD_MMV_ER_MID_2: 0.71359
+  response: 7E8056211340BB1

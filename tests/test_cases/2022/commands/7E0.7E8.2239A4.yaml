@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2239A4
+test_cases:
+- expected_values:
+    S5_CHG_P_ACTUATOR_SPEC_7E0: 100
+  response: 7E8056239A42487
+- expected_values:
+    S5_CHG_P_ACTUATOR_SPEC_7E0: 100
+  response: 7E8056239A42585
+- expected_values:
+    S5_CHG_P_ACTUATOR_SPEC_7E0: 100
+  response: 7E8056239A44C0F
+- expected_values:
+    S5_CHG_P_ACTUATOR_SPEC_7E0: 100
+  response: 7E8056239A486F8

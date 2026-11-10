@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222999
+test_cases:
+- expected_values:
+    S5_AUTOMATIC_ENG_STARTS: 13677
+  response: 7E805622999356D

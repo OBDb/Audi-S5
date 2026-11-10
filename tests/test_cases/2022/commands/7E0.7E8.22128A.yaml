@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     S5_FUEL_T: 17.25
   response: 7E80462128A57
+- expected_values:
+    S5_FUEL_T: 27.75
+  response: 7E80462128A65
+- expected_values:
+    S5_FUEL_T: 43.5
+  response: 7E80462128A7A
+- expected_values:
+    S5_FUEL_T: 69
+  response: 7E80462128A9C
+- expected_values:
+    S5_FUEL_T: 83.25
+  response: 7E80462128AAF

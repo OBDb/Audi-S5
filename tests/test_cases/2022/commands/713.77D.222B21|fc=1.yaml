@@ -1,7 +1,27 @@
 command_id: 713.77D.222B21|fc=1
 test_cases:
 - expected_values:
+    S5_BRAKE_P: 0.00012
+  response: |-
+    77D1009622B210ADAFF
+    77D21FEFFFE00000000
+- expected_values:
+    S5_BRAKE_P: 10.11336
+  response: |-
+    77D1009622B210D6FFF
+    77D21FEFFFE00000000
+- expected_values:
     S5_BRAKE_P: 13.37223
   response: |-
     77D1009622B210E44FF
+    77D21FEFFFE00000000
+- expected_values:
+    S5_BRAKE_P: 15.05522
+  response: |-
+    77D1009622B210EB2FF
+    77D21FEFFFE00000000
+- expected_values:
+    S5_BRAKE_P: 24.08216
+  response: |-
+    77D1009622B211100FF
     77D21FEFFFE00000000

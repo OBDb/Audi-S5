@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22147F|fc=1
+test_cases:
+- expected_values:
+    S5_MIS_CNT_4: 0
+  response: 7E80562147F0000

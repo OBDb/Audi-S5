@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.227094
+test_cases:
+- expected_values:
+    S5_FILL_P_CLU_E: -100
+  response: 7E904627094F6
+- expected_values:
+    S5_FILL_P_CLU_E: -60
+  response: 7E904627094FA
+- expected_values:
+    S5_FILL_P_CLU_E: -40
+  response: 7E904627094FC

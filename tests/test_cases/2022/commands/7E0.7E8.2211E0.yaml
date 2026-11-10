@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211E0
+test_cases:
+- expected_values:
+    S5_CMD_CRANK_TQ: 0
+  response: 7E8056211E00000
+- expected_values:
+    S5_CMD_CRANK_TQ: 74.7
+  response: 7E8056211E002EB
+- expected_values:
+    S5_CMD_CRANK_TQ: 120.8
+  response: 7E8056211E004B8
+- expected_values:
+    S5_CMD_CRANK_TQ: 287.2
+  response: 7E8056211E00B38

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210EA
+test_cases:
+- expected_values:
+    S5_OPEN_CAM_SHFT_ANG: 1
+  response: 7E8056210EA000A
+- expected_values:
+    S5_OPEN_CAM_SHFT_ANG: -7
+  response: 7E8056210EAFFBA
+- expected_values:
+    S5_OPEN_CAM_SHFT_ANG: -6.7
+  response: 7E8056210EAFFBD
+- expected_values:
+    S5_OPEN_CAM_SHFT_ANG: -6.4
+  response: 7E8056210EAFFC0

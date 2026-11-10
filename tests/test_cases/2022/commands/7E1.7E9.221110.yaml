@@ -1,0 +1,7 @@
+command_id: 7E1.7E9.221110
+test_cases:
+- expected_values:
+    S5_PQ35_WORKING_HOURS: 0
+  response: |-
+    7E9100D621110000000
+    7E92100000000000000

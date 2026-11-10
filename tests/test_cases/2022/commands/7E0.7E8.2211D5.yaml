@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211D5
+test_cases:
+- expected_values:
+    S5_HIGH_FUEL_P: 0.024
+  response: 7E8056211D50030
+- expected_values:
+    S5_HIGH_FUEL_P: -0.274
+  response: 7E8056211D5FDDC
+- expected_values:
+    S5_HIGH_FUEL_P: -0.024
+  response: 7E8056211D5FFD0
+- expected_values:
+    S5_HIGH_FUEL_P: -0.002
+  response: 7E8056211D5FFFC

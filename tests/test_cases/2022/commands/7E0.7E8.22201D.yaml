@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     S5_CAM_ADJ_INT_SPEC: 0.1
   response: 7E80562201D0001
+- expected_values:
+    S5_CAM_ADJ_INT_SPEC: 60
+  response: 7E80562201D0258
+- expected_values:
+    S5_CAM_ADJ_INT_SPEC: 63
+  response: 7E80562201D0276
+- expected_values:
+    S5_CAM_ADJ_INT_SPEC: 66.6
+  response: 7E80562201D029A
+- expected_values:
+    S5_CAM_ADJ_INT_SPEC: -7.5
+  response: 7E80562201DFFB5

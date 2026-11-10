@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22103D
+test_cases:
+- expected_values:
+    S5_ODO_7E1_2: 86361
+  response: 7E90662103D015159
+- expected_values:
+    S5_ODO_7E1_2: 86364
+  response: 7E90662103D01515C
+- expected_values:
+    S5_ODO_7E1_2: 86365
+  response: 7E90662103D01515D

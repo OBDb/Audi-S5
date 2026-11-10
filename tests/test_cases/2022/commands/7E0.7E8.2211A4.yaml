@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211A4
+test_cases:
+- expected_values:
+    S5_FUEL_PMP_CMD_DUTY: 25.80101
+  response: 7E8056211A4420D
+- expected_values:
+    S5_FUEL_PMP_CMD_DUTY: 27.46421
+  response: 7E8056211A4464F
+- expected_values:
+    S5_FUEL_PMP_CMD_DUTY: 28.25156
+  response: 7E8056211A44853
+- expected_values:
+    S5_FUEL_PMP_CMD_DUTY: 29.61112
+  response: 7E8056211A44BCE

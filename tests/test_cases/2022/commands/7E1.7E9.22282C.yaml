@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22282C
+test_cases:
+- expected_values:
+    S5_ROUTE_DATA_ACTIVE: 0
+  response: 7E90462282C00

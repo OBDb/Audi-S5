@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221028
+test_cases:
+- expected_values:
+    S5_CURRENT_N217_P_CTRL_3: 50
+  response: 7E90562102801F4
+- expected_values:
+    S5_CURRENT_N217_P_CTRL_3: 850
+  response: '7E9056210282134'

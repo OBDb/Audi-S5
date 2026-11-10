@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     S5_MISFIRES__CYL__2: 9387
   response: 7E80562115224AB
+- expected_values:
+    S5_MISFIRES__CYL__2: 9394
+  response: 7E80562115224B2
+- expected_values:
+    S5_MISFIRES__CYL__2: 9395
+  response: 7E80562115224B3

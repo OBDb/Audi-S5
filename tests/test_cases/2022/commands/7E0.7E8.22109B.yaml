@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22109B
+test_cases:
+- expected_values:
+    S5_ECT_RAD_OUT_2: -272.9
+  response: 7E80562109B0002
+- expected_values:
+    S5_ECT_RAD_OUT_2: -272.8
+  response: 7E80562109B0003

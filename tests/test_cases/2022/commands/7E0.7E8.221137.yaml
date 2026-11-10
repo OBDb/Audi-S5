@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221137
+test_cases:
+- expected_values:
+    S5_FUEL_PART_EVAP: 0
+  response: '7E80462113700'
+- expected_values:
+    S5_FUEL_PART_EVAP: 0.00781
+  response: '7E80462113701'
+- expected_values:
+    S5_FUEL_PART_EVAP: 0.09372
+  response: 7E8046211370C

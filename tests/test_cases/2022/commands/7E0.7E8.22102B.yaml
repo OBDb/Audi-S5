@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22102B
+test_cases:
+- expected_values:
+    S5_ACCEL_PEDAL_SENS_2_V: 374.6
+  response: 7E80562102B0751
+- expected_values:
+    S5_ACCEL_PEDAL_SENS_2_V: 532.2
+  response: 7E80562102B0A65
+- expected_values:
+    S5_ACCEL_PEDAL_SENS_2_V: 659
+  response: 7E80562102B0CDF
+- expected_values:
+    S5_ACCEL_PEDAL_SENS_2_V: 737.2
+  response: 7E80562102B0E66

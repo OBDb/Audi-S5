@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.227088
+test_cases:
+- expected_values:
+    S5_FILL_P_CLU_B: 40
+  response: '7E90462708804'
+- expected_values:
+    S5_FILL_P_CLU_B: 50
+  response: '7E90462708805'
+- expected_values:
+    S5_FILL_P_CLU_B: 70
+  response: '7E90462708807'
+- expected_values:
+    S5_FILL_P_CLU_B: 90
+  response: '7E90462708809'

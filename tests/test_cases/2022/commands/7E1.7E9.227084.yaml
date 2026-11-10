@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227084
+test_cases:
+- expected_values:
+    S5_FILL_P_CLU: -150
+  response: 7E904627084F1

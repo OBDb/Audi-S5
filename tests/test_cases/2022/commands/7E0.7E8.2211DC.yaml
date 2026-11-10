@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.2211DC
 test_cases:
 - expected_values:
+    S5_MAP_RAW: 265.70312
+  response: 7E8056211DC0D49
+- expected_values:
+    S5_MAP_RAW: 296.95312
+  response: 7E8056211DC0ED9
+- expected_values:
     S5_MAP_RAW: 390.85938
   response: 7E8056211DC138B
+- expected_values:
+    S5_MAP_RAW: 458.20312
+  response: 7E8056211DC16E9
+- expected_values:
+    S5_MAP_RAW: 576.32812
+  response: 7E8056211DC1CD1

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227085
+test_cases:
+- expected_values:
+    S5_ADPT_CNT_CLU: 30
+  response: 7E9046270851E

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221063
+test_cases:
+- expected_values:
+    S5_ENG_OUTLET_ECT_CALC: 61.1
+  response: 7E8056210630D0E
+- expected_values:
+    S5_ENG_OUTLET_ECT_CALC: 97
+  response: 7E8056210630E75
+- expected_values:
+    S5_ENG_OUTLET_ECT_CALC: 100
+  response: 7E8056210630E93
+- expected_values:
+    S5_ENG_OUTLET_ECT_CALC: 100.7
+  response: 7E8056210630E9A

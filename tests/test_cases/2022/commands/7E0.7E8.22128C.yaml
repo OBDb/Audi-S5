@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.22128C
 test_cases:
 - expected_values:
+    S5_AVG_INJ_TIME: 0.486
+  response: 7E80762128C000004BF
+- expected_values:
     S5_AVG_INJ_TIME: 1.0348
   response: 7E80762128C00000A1B
+- expected_values:
+    S5_AVG_INJ_TIME: 1.202
+  response: 7E80762128C00000BBD
+- expected_values:
+    S5_AVG_INJ_TIME: 1.3076
+  response: 7E80762128C00000CC5
+- expected_values:
+    S5_AVG_INJ_TIME: 1.4884
+  response: 7E80762128C00000E89

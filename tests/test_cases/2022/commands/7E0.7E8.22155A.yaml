@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22155A
+test_cases:
+- expected_values:
+    S5_PQ35_ENG_TORQUE: 0
+  response: 7E80562155A0000
+- expected_values:
+    S5_PQ35_ENG_TORQUE: -1.1875
+  response: 7E80562155AFFDA

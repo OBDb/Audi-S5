@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S5_MANUAL_ENG_STARTS: 5890
   response: '7E8056229981702'
+- expected_values:
+    S5_MANUAL_ENG_STARTS: 5892
+  response: '7E8056229981704'

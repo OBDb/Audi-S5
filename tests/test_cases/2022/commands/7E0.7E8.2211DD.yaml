@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211DD
+test_cases:
+- expected_values:
+    S5_INT_MANIFOLD_P_CMD: 242.5
+  response: 7E8056211DD0C20
+- expected_values:
+    S5_INT_MANIFOLD_P_CMD: 519.375
+  response: 7E8056211DD19F8
+- expected_values:
+    S5_INT_MANIFOLD_P_CMD: 992.89062
+  response: 7E8056211DD31A5
+- expected_values:
+    S5_INT_MANIFOLD_P_CMD: 1029.53125
+  response: 7E8056211DD337A

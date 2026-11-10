@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222105
+test_cases:
+- expected_values:
+    S5_TQ_TRANSMITTING: 2.3
+  response: '7E9056221050017'
+- expected_values:
+    S5_TQ_TRANSMITTING: 3.7
+  response: '7E9056221050025'
+- expected_values:
+    S5_TQ_TRANSMITTING: 9.1
+  response: 7E905622105005B

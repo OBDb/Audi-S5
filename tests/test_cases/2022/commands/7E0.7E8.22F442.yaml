@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    S5_VPWR: 12.34
+  response: 7E80562F4423034
+- expected_values:
+    S5_VPWR: 14.46
+  response: 7E80562F442387C
+- expected_values:
+    S5_VPWR: 14.48
+  response: 7E80562F4423890
+- expected_values:
+    S5_VPWR: 14.6
+  response: 7E80562F4423908

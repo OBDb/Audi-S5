@@ -1,5 +1,8 @@
 command_id: 746.7B0.222607|fc=1,din=03
 test_cases:
 - expected_values:
+    S5_CLIMATE_RAD_FAN_CMD_DUTY: 0
+  response: 7B0056226070000
+- expected_values:
     S5_CLIMATE_RAD_FAN_CMD_DUTY: 0.4
   response: 7B005622607013C
