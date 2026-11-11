@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S5_ENGINE_RPM_AT_IDLE_REQUIRED: 580
   response: '7E8056211610488'
+- expected_values:
+    S5_ENGINE_RPM_AT_IDLE_REQUIRED: 660
+  response: '7E8056211610528'

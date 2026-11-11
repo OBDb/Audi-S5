@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221341
 test_cases:
 - expected_values:
-    S5_PQ35_CAMS_END: -704
-  response: 7E805621341F240
+    S5_PQ35_CAMS_END: 69.8
+  response: 7E805621341015D
 - expected_values:
     S5_PQ35_CAMS_END: -455.2
   response: 7E805621341F71C
 - expected_values:
-    S5_PQ35_CAMS_END: -223.4
-  response: 7E805621341FBA3
-- expected_values:
     S5_PQ35_CAMS_END: -158
   response: 7E805621341FCEA
+- expected_values:
+    S5_PQ35_CAMS_END: -129.6
+  response: 7E805621341FD78

@@ -9,3 +9,18 @@ test_cases:
 - expected_values:
     S5_ODO_7E1_2: 86365
   response: 7E90662103D01515D
+- expected_values:
+    S5_ODO_7E1_2: 86370
+  response: 7E90662103D015162
+- expected_values:
+    S5_ODO_7E1_2: 86371
+  response: 7E90662103D015163
+- expected_values:
+    S5_ODO_7E1_2: 86372
+  response: 7E90662103D015164
+- expected_values:
+    S5_ODO_7E1_2: 86373
+  response: 7E90662103D015165
+- expected_values:
+    S5_ODO_7E1_2: 86374
+  response: 7E90662103D015166

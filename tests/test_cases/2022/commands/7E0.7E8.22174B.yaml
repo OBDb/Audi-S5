@@ -4,11 +4,8 @@ test_cases:
     S5_INT_CAM_ADPT_BIAS: 0.04395
   response: 7E80562174B0002
 - expected_values:
-    S5_INT_CAM_ADPT_BIAS: 0.30762
-  response: 7E80562174B000E
+    S5_INT_CAM_ADPT_BIAS: -0.50538
+  response: 7E80562174BFFE9
 - expected_values:
-    S5_INT_CAM_ADPT_BIAS: 0.41749
-  response: 7E80562174B0013
-- expected_values:
-    S5_INT_CAM_ADPT_BIAS: -0.13184
-  response: 7E80562174BFFFA
+    S5_INT_CAM_ADPT_BIAS: -0.02197
+  response: 7E80562174BFFFF

@@ -1,14 +1,17 @@
 command_id: 7E0.7E8.221212
 test_cases:
 - expected_values:
-    S5_KNOCK_SENS_CYL_2_7E0: 0.01232
-  response: 7E80762121200003F29
+    S5_KNOCK_SENS_CYL_2_7E0: 0.00987
+  response: '7E80762121200003298'
 - expected_values:
-    S5_KNOCK_SENS_CYL_2_7E0: 0.0205
-  response: 7E8076212120000691C
+    S5_KNOCK_SENS_CYL_2_7E0: 0.01366
+  response: '7E80762121200004602'
 - expected_values:
-    S5_KNOCK_SENS_CYL_2_7E0: 0.04221
-  response: 7E8076212120000D85F
+    S5_KNOCK_SENS_CYL_2_7E0: 0.01599
+  response: 7E807621212000051F7
 - expected_values:
     S5_KNOCK_SENS_CYL_2_7E0: 0.04581
   response: 7E8076212120000EADC
+- expected_values:
+    S5_KNOCK_SENS_CYL_2_7E0: 0.05352
+  response: '7E80762121200011257'

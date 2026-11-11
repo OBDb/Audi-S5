@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.22102A
 test_cases:
 - expected_values:
-    S5_CLU_CENTER_CENTRAL_T: -13540
-  response: 7E90562102A1CCB
+    S5_CLU_CENTER_CENTRAL_T: 0
+  response: 7E90562102A0000
 - expected_values:
-    S5_CLU_CENTER_CENTRAL_T: -12516
-  response: 7E90562102A1CCF
+    S5_CLU_CENTER_CENTRAL_T: -16100
+  response: 7E90562102A1CC1
 - expected_values:
     S5_CLU_CENTER_CENTRAL_T: -11492
   response: 7E90562102A1CD3

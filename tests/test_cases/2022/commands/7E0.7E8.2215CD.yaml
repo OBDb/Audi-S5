@@ -4,8 +4,8 @@ test_cases:
     S5_ECT_RADIATOR_OUTLET_V_1: 18.8
   response: 7E8056215CD0B67
 - expected_values:
-    S5_ECT_RADIATOR_OUTLET_V_1: 19.2
-  response: 7E8056215CD0B6B
+    S5_ECT_RADIATOR_OUTLET_V_1: 32.3
+  response: 7E8056215CD0BEE
 - expected_values:
-    S5_ECT_RADIATOR_OUTLET_V_1: 27.1
-  response: 7E8056215CD0BBA
+    S5_ECT_RADIATOR_OUTLET_V_1: 36.2
+  response: 7E8056215CD0C15

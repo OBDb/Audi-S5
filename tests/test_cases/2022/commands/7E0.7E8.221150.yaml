@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     S5_MISFIRES_C3_ECM: 4775
   response: 7E80562115012A7
+- expected_values:
+    S5_MISFIRES_C3_ECM: 4778
+  response: 7E80562115012AA
+- expected_values:
+    S5_MISFIRES_C3_ECM: 4779
+  response: 7E80562115012AB

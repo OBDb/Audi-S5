@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221633
 test_cases:
 - expected_values:
-    S5_LONGITUDINAL_ACCEL: 0.726
-  response: 7E80562163302D6
+    S5_LONGITUDINAL_ACCEL: 0.387
+  response: '7E8056216330183'
 - expected_values:
-    S5_LONGITUDINAL_ACCEL: -0.283
-  response: 7E805621633FEE5
+    S5_LONGITUDINAL_ACCEL: 0.571
+  response: 7E805621633023B
 - expected_values:
-    S5_LONGITUDINAL_ACCEL: -0.047
-  response: 7E805621633FFD1
+    S5_LONGITUDINAL_ACCEL: 0.76
+  response: 7E80562163302F8
 - expected_values:
-    S5_LONGITUDINAL_ACCEL: -0.012
-  response: 7E805621633FFF4
+    S5_LONGITUDINAL_ACCEL: -0.19
+  response: 7E805621633FF42

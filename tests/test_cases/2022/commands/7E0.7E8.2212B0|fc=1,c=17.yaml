@@ -4,11 +4,8 @@ test_cases:
     S5_ACCELERATION_29BIT: 0
   response: 7E8056212B00000
 - expected_values:
-    S5_ACCELERATION_29BIT: 0.148
-  response: 7E8056212B00094
-- expected_values:
-    S5_ACCELERATION_29BIT: 0.317
-  response: 7E8056212B0013D
-- expected_values:
     S5_ACCELERATION_29BIT: 0.488
   response: 7E8056212B001E8
+- expected_values:
+    S5_ACCELERATION_29BIT: -0.414
+  response: 7E8056212B0FE62

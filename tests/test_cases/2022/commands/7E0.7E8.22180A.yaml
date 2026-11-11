@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.22180A
 test_cases:
 - expected_values:
-    S5_FUEL_RATE_DIFF_INJ: -5.51555
-  response: 7E80562180AFA7C
-- expected_values:
-    S5_FUEL_RATE_DIFF_INJ: -5.27728
-  response: 7E80562180AFAB9
+    S5_FUEL_RATE_DIFF_INJ: -5.91008
+  response: 7E80562180AFA17
 - expected_values:
     S5_FUEL_RATE_DIFF_INJ: -5.07806
   response: 7E80562180AFAEC

@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
+    S5_FLI_INPUT: 0
+  response: 7E80462F42F00
+- expected_values:
+    S5_FLI_INPUT: 65.88235
+  response: 7E80462F42FA8
+- expected_values:
+    S5_FLI_INPUT: 66.66667
+  response: 7E80462F42FAA
+- expected_values:
     S5_FLI_INPUT: 68.62745
   response: 7E80462F42FAF
 - expected_values:

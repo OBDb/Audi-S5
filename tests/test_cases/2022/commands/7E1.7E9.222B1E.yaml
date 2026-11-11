@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.222B1E
 test_cases:
 - expected_values:
-    S5_TIRE_RR_SPD: 7.8
-  response: 7E905622B1E004E
+    S5_TIRE_RR_SPD: 0
+  response: 7E905622B1E0000
+- expected_values:
+    S5_TIRE_RR_SPD: 21
+  response: 7E905622B1E00D2
 - expected_values:
     S5_TIRE_RR_SPD: 51.4
   response: 7E905622B1E0202
-- expected_values:
-    S5_TIRE_RR_SPD: 66.2
-  response: 7E905622B1E0296

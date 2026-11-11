@@ -4,8 +4,26 @@ test_cases:
     S5_LATERAL_ACCEL: 0
   response: '7E8056216440000'
 - expected_values:
+    S5_LATERAL_ACCEL: 0.01
+  response: '7E8056216440001'
+- expected_values:
+    S5_LATERAL_ACCEL: 0.03
+  response: '7E8056216440003'
+- expected_values:
+    S5_LATERAL_ACCEL: 0.04
+  response: '7E8056216440004'
+- expected_values:
     S5_LATERAL_ACCEL: 0.05
   response: '7E8056216440005'
 - expected_values:
+    S5_LATERAL_ACCEL: 0.08
+  response: '7E8056216440008'
+- expected_values:
+    S5_LATERAL_ACCEL: -0.03
+  response: 7E805621644FFFD
+- expected_values:
     S5_LATERAL_ACCEL: -0.02
   response: 7E805621644FFFE
+- expected_values:
+    S5_LATERAL_ACCEL: -0.01
+  response: 7E805621644FFFF

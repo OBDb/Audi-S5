@@ -4,11 +4,8 @@ test_cases:
     S5_ODO_HD: 85888758
   response: 7E807621160051E8EF6
 - expected_values:
-    S5_ODO_HD: 85890984
-  response: 7E807621160051E97A8
+    S5_ODO_HD: 85899523
+  response: 7E807621160051EB903
 - expected_values:
-    S5_ODO_HD: 85892789
-  response: 7E807621160051E9EB5
-- expected_values:
-    S5_ODO_HD: 85893082
-  response: 7E807621160051E9FDA
+    S5_ODO_HD: 85901767
+  response: 7E807621160051EC1C7

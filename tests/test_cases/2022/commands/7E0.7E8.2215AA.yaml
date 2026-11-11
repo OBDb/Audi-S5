@@ -2,13 +2,7 @@ command_id: 7E0.7E8.2215AA
 test_cases:
 - expected_values:
     S5_PQ35_SELECTED_GEAR: 2
-  response: 7E8056215AA0272
-- expected_values:
-    S5_PQ35_SELECTED_GEAR: 2
-  response: 7E8056215AA02A6
-- expected_values:
-    S5_PQ35_SELECTED_GEAR: 3
-  response: 7E8056215AA0327
+  response: 7E8056215AA0202
 - expected_values:
     S5_PQ35_SELECTED_GEAR: 5
   response: 7E8056215AA05BE

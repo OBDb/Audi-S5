@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     S5_MAX_CHA_CUR_2: 0
   response: '7E8056211590000'
+- expected_values:
+    S5_MAX_CHA_CUR_2: 0
+  response: |-
+    7E8056211590000
+    7E8056211590000

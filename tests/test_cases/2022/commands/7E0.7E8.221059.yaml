@@ -7,5 +7,17 @@ test_cases:
     S5_ACCEL_PEDAL_TQ_LIM: 19.6
   response: 7E80562105900C4
 - expected_values:
+    S5_ACCEL_PEDAL_TQ_LIM: 94.3
+  response: 7E80562105903AF
+- expected_values:
+    S5_ACCEL_PEDAL_TQ_LIM: 103.5
+  response: 7E805621059040B
+- expected_values:
+    S5_ACCEL_PEDAL_TQ_LIM: 114.5
+  response: '7E8056210590479'
+- expected_values:
+    S5_ACCEL_PEDAL_TQ_LIM: 115.5
+  response: '7E8056210590483'
+- expected_values:
     S5_ACCEL_PEDAL_TQ_LIM: 264.8
   response: 7E8056210590A58

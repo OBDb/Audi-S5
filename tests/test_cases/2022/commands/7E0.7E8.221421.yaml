@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221421
 test_cases:
 - expected_values:
-    S5_EXH_T_BEFORE_CAT: 512.8
-  response: 7E8056214211EB3
+    S5_EXH_T_BEFORE_CAT: 437.1
+  response: 7E8056214211BBE
 - expected_values:
-    S5_EXH_T_BEFORE_CAT: 517.5
-  response: 7E8056214211EE2
+    S5_EXH_T_BEFORE_CAT: 443
+  response: 7E8056214211BF9
 - expected_values:
-    S5_EXH_T_BEFORE_CAT: 574.3
-  response: 7E805621421211A
+    S5_EXH_T_BEFORE_CAT: 444.2
+  response: 7E8056214211C05
 - expected_values:
     S5_EXH_T_BEFORE_CAT: 726
   response: '7E8056214212707'

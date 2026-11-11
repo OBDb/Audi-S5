@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     S5_A_C_REFRIGERANT_PRES: 19200
   response: '7E8056210172580'
+- expected_values:
+    S5_A_C_REFRIGERANT_PRES: 51000
+  response: 7E805621017639C

@@ -4,11 +4,8 @@ test_cases:
     S5_ENG_OUTLET_ECT_CALC: 61.1
   response: 7E8056210630D0E
 - expected_values:
-    S5_ENG_OUTLET_ECT_CALC: 97
-  response: 7E8056210630E75
+    S5_ENG_OUTLET_ECT_CALC: 92.6
+  response: 7E8056210630E49
 - expected_values:
-    S5_ENG_OUTLET_ECT_CALC: 100
-  response: 7E8056210630E93
-- expected_values:
-    S5_ENG_OUTLET_ECT_CALC: 100.7
-  response: 7E8056210630E9A
+    S5_ENG_OUTLET_ECT_CALC: 102.7
+  response: 7E8056210630EAE

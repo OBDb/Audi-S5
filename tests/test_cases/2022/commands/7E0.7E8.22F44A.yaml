@@ -4,5 +4,17 @@ test_cases:
     S5_ACCEL_PEDAL_POS_2: 14.90196
   response: 7E80462F44A26
 - expected_values:
+    S5_ACCEL_PEDAL_POS_2: 18.03922
+  response: 7E80462F44A2E
+- expected_values:
+    S5_ACCEL_PEDAL_POS_2: 20.39216
+  response: 7E80462F44A34
+- expected_values:
+    S5_ACCEL_PEDAL_POS_2: 27.45098
+  response: 7E80462F44A46
+- expected_values:
     S5_ACCEL_PEDAL_POS_2: 30.19608
   response: 7E80462F44A4D
+- expected_values:
+    S5_ACCEL_PEDAL_POS_2: 32.94118
+  response: 7E80462F44A54

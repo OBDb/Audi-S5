@@ -4,5 +4,26 @@ test_cases:
     S5_MQB_MAF_1_B1_RAW: 0
   response: '7E8056210260000'
 - expected_values:
+    S5_MQB_MAF_1_B1_RAW: 45.7
+  response: 7E80562102601C9
+- expected_values:
+    S5_MQB_MAF_1_B1_RAW: 89.2
+  response: 7E805621026037C
+- expected_values:
+    S5_MQB_MAF_1_B1_RAW: 137.4
+  response: 7E805621026055E
+- expected_values:
+    S5_MQB_MAF_1_B1_RAW: 184.5
+  response: '7E8056210260735'
+- expected_values:
+    S5_MQB_MAF_1_B1_RAW: 242
+  response: '7E8056210260974'
+- expected_values:
+    S5_MQB_MAF_1_B1_RAW: 256
+  response: 7E8056210260A00
+- expected_values:
+    S5_MQB_MAF_1_B1_RAW: 275.4
+  response: 7E8056210260AC2
+- expected_values:
     S5_MQB_MAF_1_B1_RAW: 303.4
   response: 7E8056210260BDA

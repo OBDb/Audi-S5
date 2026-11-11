@@ -7,5 +7,14 @@ test_cases:
     S5_VARIABLE_VLV_TIM_INT_1: 6.24999
   response: 7E80562127B0800
 - expected_values:
+    S5_VARIABLE_VLV_TIM_INT_1: 6.29882
+  response: 7E80562127B0810
+- expected_values:
+    S5_VARIABLE_VLV_TIM_INT_1: 37.06051
+  response: 7E80562127B2F70
+- expected_values:
+    S5_VARIABLE_VLV_TIM_INT_1: 39.33712
+  response: 7E80562127B325A
+- expected_values:
     S5_VARIABLE_VLV_TIM_INT_1: 40.82027
   response: 7E80562127B3440

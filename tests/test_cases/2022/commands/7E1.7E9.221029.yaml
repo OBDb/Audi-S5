@@ -10,5 +10,17 @@ test_cases:
     S5_CURRENT_N371_P_CTRL_6: 353.2
   response: 7E9056210290DCC
 - expected_values:
+    S5_CURRENT_N371_P_CTRL_6: 358.7
+  response: 7E9056210290E03
+- expected_values:
+    S5_CURRENT_N371_P_CTRL_6: 360.3
+  response: 7E9056210290E13
+- expected_values:
     S5_CURRENT_N371_P_CTRL_6: 366.8
   response: 7E9056210290E54
+- expected_values:
+    S5_CURRENT_N371_P_CTRL_6: 378.2
+  response: 7E9056210290EC6
+- expected_values:
+    S5_CURRENT_N371_P_CTRL_6: 383.2
+  response: 7E9056210290EF8

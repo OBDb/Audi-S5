@@ -1,8 +1,20 @@
 command_id: 7E1.7E9.221028
 test_cases:
 - expected_values:
+    S5_CURRENT_N217_P_CTRL_3: 0
+  response: '7E9056210280000'
+- expected_values:
     S5_CURRENT_N217_P_CTRL_3: 50
   response: 7E90562102801F4
+- expected_values:
+    S5_CURRENT_N217_P_CTRL_3: 610.8
+  response: 7E90562102817DC
+- expected_values:
+    S5_CURRENT_N217_P_CTRL_3: 625.7
+  response: '7E9056210281871'
+- expected_values:
+    S5_CURRENT_N217_P_CTRL_3: 642.2
+  response: '7E9056210281916'
 - expected_values:
     S5_CURRENT_N217_P_CTRL_3: 850
   response: '7E9056210282134'

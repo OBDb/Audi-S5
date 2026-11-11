@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.222002
 test_cases:
 - expected_values:
+    S5_ENG_TQ_7E1: 0
+  response: '7E9056220020000'
+- expected_values:
     S5_ENG_TQ_7E1: 65486
   response: 7E905622002FFCE
 - expected_values:
-    S5_ENG_TQ_7E1: 65490
-  response: 7E905622002FFD2
-- expected_values:
-    S5_ENG_TQ_7E1: 65528
-  response: 7E905622002FFF8
+    S5_ENG_TQ_7E1: 65534
+  response: 7E905622002FFFE

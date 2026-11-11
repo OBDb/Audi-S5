@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    S5_RPM: 584
-  response: 7E80562F40C0920
+    S5_RPM: 0
+  response: 7E80562F40C0000
 - expected_values:
-    S5_RPM: 1153
-  response: 7E80562F40C1204
+    S5_RPM: 575
+  response: 7E80562F40C08FC
 - expected_values:
-    S5_RPM: 1200.5
-  response: 7E80562F40C12C2
-- expected_values:
-    S5_RPM: 1302
-  response: 7E80562F40C1458
+    S5_RPM: 1494
+  response: 7E80562F40C1758

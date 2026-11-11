@@ -4,5 +4,23 @@ test_cases:
     S5_TQ_CONV: 1
   response: '7E90462213064'
 - expected_values:
+    S5_TQ_CONV: 1.05
+  response: '7E90462213069'
+- expected_values:
     S5_TQ_CONV: 1.08
   response: 7E9046221306C
+- expected_values:
+    S5_TQ_CONV: 1.14
+  response: '7E90462213072'
+- expected_values:
+    S5_TQ_CONV: 1.4
+  response: 7E9046221308C
+- expected_values:
+    S5_TQ_CONV: 1.6
+  response: 7E904622130A0
+- expected_values:
+    S5_TQ_CONV: 1.71
+  response: 7E904622130AB
+- expected_values:
+    S5_TQ_CONV: 1.72
+  response: 7E904622130AC

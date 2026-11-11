@@ -1,14 +1,42 @@
 command_id: 7E1.7E9.2270D1
 test_cases:
 - expected_values:
+    S5_SHIFT_PROCCESS: 1
+    S5_SHIFT_PROCCESS_TGT: 1
+  response: 7E9056270D10101
+- expected_values:
     S5_SHIFT_PROCCESS: 2
     S5_SHIFT_PROCCESS_TGT: 2
   response: 7E9056270D10202
+- expected_values:
+    S5_SHIFT_PROCCESS: 2
+    S5_SHIFT_PROCCESS_TGT: 3
+  response: 7E9056270D10302
 - expected_values:
     S5_SHIFT_PROCCESS: 3
     S5_SHIFT_PROCCESS_TGT: 3
   response: 7E9056270D10303
 - expected_values:
+    S5_SHIFT_PROCCESS: 5
+    S5_SHIFT_PROCCESS_TGT: 5
+  response: 7E9056270D10505
+- expected_values:
+    S5_SHIFT_PROCCESS: 6
+    S5_SHIFT_PROCCESS_TGT: 6
+  response: 7E9056270D10606
+- expected_values:
+    S5_SHIFT_PROCCESS: 7
+    S5_SHIFT_PROCCESS_TGT: 7
+  response: 7E9056270D10707
+- expected_values:
     S5_SHIFT_PROCCESS: 8
     S5_SHIFT_PROCCESS_TGT: 8
   response: 7E9056270D10808
+- expected_values:
+    S5_SHIFT_PROCCESS: 11
+    S5_SHIFT_PROCCESS_TGT: 11
+  response: 7E9056270D10B0B
+- expected_values:
+    S5_SHIFT_PROCCESS: 13
+    S5_SHIFT_PROCCESS_TGT: 13
+  response: 7E9056270D10D0D

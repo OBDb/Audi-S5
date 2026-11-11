@@ -4,5 +4,14 @@ test_cases:
     S5_COOLANT_T_AT_ENGINE_START: 24.1
   response: 7E8056212910B9C
 - expected_values:
+    S5_COOLANT_T_AT_ENGINE_START: 28.6
+  response: 7E8056212910BC9
+- expected_values:
     S5_COOLANT_T_AT_ENGINE_START: 96.8
   response: 7E8056212910E73
+- expected_values:
+    S5_COOLANT_T_AT_ENGINE_START: 101.6
+  response: 7E8056212910EA3
+- expected_values:
+    S5_COOLANT_T_AT_ENGINE_START: 102.8
+  response: 7E8056212910EAF

@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     S5_FILL_P_CLU_D: -280
   response: 7E904627090E4
+- expected_values:
+    S5_FILL_P_CLU_D: -270
+  response: 7E904627090E5
+- expected_values:
+    S5_FILL_P_CLU_D: -260
+  response: 7E904627090E6
+- expected_values:
+    S5_FILL_P_CLU_D: -250
+  response: 7E904627090E7

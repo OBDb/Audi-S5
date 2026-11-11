@@ -2,13 +2,16 @@ command_id: 7E0.7E8.22100C|din=03
 test_cases:
 - expected_values:
     S5_PQ35_FUEL_LVL_2: 0
-  response: 7E80762100C00000046
+  response: 7E80762100C00000028
 - expected_values:
     S5_PQ35_FUEL_LVL_2: 0
-  response: 7E80762100C00000BC2
+  response: 7E80762100C000000DC
 - expected_values:
     S5_PQ35_FUEL_LVL_2: 0
-  response: 7E80762100C0000155E
+  response: 7E80762100C00000D0C
 - expected_values:
-    S5_PQ35_FUEL_LVL_2: 0
-  response: 7E80762100C00001B30
+    S5_PQ35_FUEL_LVL_2: 655.35
+  response: 7E80762100CFFFFFB14
+- expected_values:
+    S5_PQ35_FUEL_LVL_2: 655.35
+  response: 7E80762100CFFFFFCA4

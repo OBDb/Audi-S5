@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S5_DRIVE_TIME: 1419.75
   response: 7E905620302162F
+- expected_values:
+    S5_DRIVE_TIME: 1420
+  response: '7E9056203021630'

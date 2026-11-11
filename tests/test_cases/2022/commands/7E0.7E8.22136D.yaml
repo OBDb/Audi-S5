@@ -4,8 +4,8 @@ test_cases:
     S5_CAM_ADJ_EXH_BANK_2_ACT: 7.85938
   response: 7E80562136D01F7
 - expected_values:
-    S5_CAM_ADJ_EXH_BANK_2_ACT: -24.15625
-  response: 7E80562136DF9F6
+    S5_CAM_ADJ_EXH_BANK_2_ACT: -24.01562
+  response: 7E80562136DF9FF
 - expected_values:
     S5_CAM_ADJ_EXH_BANK_2_ACT: -23.95312
   response: 7E80562136DFA03

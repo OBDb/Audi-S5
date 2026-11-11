@@ -1,5 +1,23 @@
 command_id: 7E1.7E9.22211A
 test_cases:
 - expected_values:
+    S5_MAX_PERMISSIBLE_ENG: 359
+  response: 7E90562211A0167
+- expected_values:
+    S5_MAX_PERMISSIBLE_ENG: 433
+  response: 7E90562211A01B1
+- expected_values:
+    S5_MAX_PERMISSIBLE_ENG: 440
+  response: 7E90562211A01B8
+- expected_values:
+    S5_MAX_PERMISSIBLE_ENG: 478
+  response: 7E90562211A01DE
+- expected_values:
+    S5_MAX_PERMISSIBLE_ENG: 643
+  response: 7E90562211A0283
+- expected_values:
     S5_MAX_PERMISSIBLE_ENG: 746
   response: 7E90562211A02EA
+- expected_values:
+    S5_MAX_PERMISSIBLE_ENG: 748
+  response: 7E90562211A02EC

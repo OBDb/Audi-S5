@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2215D4
 test_cases:
 - expected_values:
-    S5_LAMBDA_OUTPUT: 0.98782
-  response: 7E8056215D47E71
-- expected_values:
-    S5_LAMBDA_OUTPUT: 0.99054
-  response: 7E8056215D47ECA
+    S5_LAMBDA_OUTPUT: 0.94968
+  response: 7E8056215D4798F
 - expected_values:
     S5_LAMBDA_OUTPUT: 1
   response: 7E8056215D48000
+- expected_values:
+    S5_LAMBDA_OUTPUT: 1.0383
+  response: 7E8056215D484E7
 - expected_values:
     S5_LAMBDA_OUTPUT: 1.05579
   response: 7E8056215D48724

@@ -4,11 +4,5 @@ test_cases:
     S5_FUEL_CONS_ACT_DRIVE: 0.12
   response: 7E805621519000C
 - expected_values:
-    S5_FUEL_CONS_ACT_DRIVE: 0.37
-  response: '7E8056215190025'
-- expected_values:
-    S5_FUEL_CONS_ACT_DRIVE: 0.55
-  response: '7E8056215190037'
-- expected_values:
-    S5_FUEL_CONS_ACT_DRIVE: 0.65
-  response: '7E8056215190041'
+    S5_FUEL_CONS_ACT_DRIVE: 0.8
+  response: '7E8056215190050'
