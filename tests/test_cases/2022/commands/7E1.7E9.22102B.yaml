@@ -7,8 +7,23 @@ test_cases:
     S5_PQ35_CLUTCH_1_T: 3
   response: 7E90462102B03
 - expected_values:
+    S5_PQ35_CLUTCH_1_T: 6
+  response: 7E90462102B06
+- expected_values:
+    S5_PQ35_CLUTCH_1_T: 8
+  response: 7E90462102B08
+- expected_values:
+    S5_PQ35_CLUTCH_1_T: 10
+  response: 7E90462102B0A
+- expected_values:
+    S5_PQ35_CLUTCH_1_T: 19
+  response: 7E90462102B13
+- expected_values:
     S5_PQ35_CLUTCH_1_T: 22
   response: 7E90462102B16
+- expected_values:
+    S5_PQ35_CLUTCH_1_T: 28
+  response: 7E90462102B1C
 - expected_values:
     S5_PQ35_CLUTCH_1_T: 44
   response: 7E90462102B2C

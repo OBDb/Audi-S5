@@ -1,14 +1,8 @@
 command_id: 7E0.7E8.22174A
 test_cases:
 - expected_values:
-    S5_EXH_CAM_ADPT_BIAS: 1.42824
-  response: 7E80562174A0041
-- expected_values:
-    S5_EXH_CAM_ADPT_BIAS: 1.49416
-  response: 7E80562174A0044
-- expected_values:
-    S5_EXH_CAM_ADPT_BIAS: 1.60403
-  response: 7E80562174A0049
+    S5_EXH_CAM_ADPT_BIAS: 1.25246
+  response: 7E80562174A0039
 - expected_values:
     S5_EXH_CAM_ADPT_BIAS: 1.626
   response: 7E80562174A004A

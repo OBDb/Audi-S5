@@ -4,5 +4,17 @@ test_cases:
     S5_ACCEL_PEDAL_SENS_1_V: 749.4
   response: 7E80562102A0EA3
 - expected_values:
+    S5_ACCEL_PEDAL_SENS_1_V: 1029
+  response: 7E80562102A1419
+- expected_values:
     S5_ACCEL_PEDAL_SENS_1_V: 1030.2
   response: 7E80562102A141F
+- expected_values:
+    S5_ACCEL_PEDAL_SENS_1_V: 1044.8
+  response: 7E80562102A1468
+- expected_values:
+    S5_ACCEL_PEDAL_SENS_1_V: 1392.8
+  response: 7E80562102A1B34
+- expected_values:
+    S5_ACCEL_PEDAL_SENS_1_V: 1531.8
+  response: 7E80562102A1DEB

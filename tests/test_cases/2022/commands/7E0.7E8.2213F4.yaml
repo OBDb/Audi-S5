@@ -9,3 +9,12 @@ test_cases:
 - expected_values:
     S5_IGA_CYL_KNK_2: 0.375
   response: 7E8056213F48191
+- expected_values:
+    S5_IGA_CYL_KNK_2: 0.375
+  response: 7E8056213F4819A
+- expected_values:
+    S5_IGA_CYL_KNK_2: 0.75
+  response: 7E8056213F48273
+- expected_values:
+    S5_IGA_CYL_KNK_2: 0.75
+  response: 7E8056213F48274

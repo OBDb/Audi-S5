@@ -5,3 +5,8 @@ test_cases:
   response: |-
     7E9100D621125194D0C
     7E921F512B6112F03FB
+- expected_values:
+    S5_CLU_2_HI_ADPT_POINT: 6.503
+  response: |-
+    7E9100D62112519670C
+    7E921FE12F41143041F

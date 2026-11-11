@@ -4,11 +4,5 @@ test_cases:
     S5_FUEL_PMP_ADPT: -43.6
   response: 7E8056211C9FE4C
 - expected_values:
-    S5_FUEL_PMP_ADPT: -41.7
-  response: 7E8056211C9FE5F
-- expected_values:
-    S5_FUEL_PMP_ADPT: -41.3
-  response: 7E8056211C9FE63
-- expected_values:
-    S5_FUEL_PMP_ADPT: -41.2
-  response: 7E8056211C9FE64
+    S5_FUEL_PMP_ADPT: -34.6
+  response: 7E8056211C9FEA6

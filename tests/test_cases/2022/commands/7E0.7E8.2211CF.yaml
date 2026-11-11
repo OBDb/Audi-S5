@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211CF
 test_cases:
 - expected_values:
+    S5_BRAKE_BOOSTER_P: 55.97585
+  response: 7E8056211CF0599
+- expected_values:
     S5_BRAKE_BOOSTER_P: 58.98362
   response: 7E8056211CF05E6
 - expected_values:
-    S5_BRAKE_BOOSTER_P: 63.98356
-  response: 7E8056211CF0666
-- expected_values:
-    S5_BRAKE_BOOSTER_P: 98.98311
-  response: 7E8056211CF09E6
+    S5_BRAKE_BOOSTER_P: 119.99846
+  response: 7E8056211CF0C00
 - expected_values:
     S5_BRAKE_BOOSTER_P: 140.97476
   response: 7E8056211CF0E19

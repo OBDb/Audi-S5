@@ -4,11 +4,5 @@ test_cases:
     S5_GENERATOR_LOAD_SIG: 0
   response: 7E80562101C0000
 - expected_values:
-    S5_GENERATOR_LOAD_SIG: 51.54
-  response: 7E80562101C1422
-- expected_values:
-    S5_GENERATOR_LOAD_SIG: 57.98
-  response: 7E80562101C16A6
-- expected_values:
-    S5_GENERATOR_LOAD_SIG: 64.43
-  response: 7E80562101C192B
+    S5_GENERATOR_LOAD_SIG: 74.09
+  response: 7E80562101C1CF1

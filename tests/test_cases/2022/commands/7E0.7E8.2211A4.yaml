@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211A4
 test_cases:
 - expected_values:
-    S5_FUEL_PMP_CMD_DUTY: 25.80101
-  response: 7E8056211A4420D
+    S5_FUEL_PMP_CMD_DUTY: 10.00058
+  response: 7E8056211A4199A
 - expected_values:
-    S5_FUEL_PMP_CMD_DUTY: 27.46421
-  response: 7E8056211A4464F
+    S5_FUEL_PMP_CMD_DUTY: 24.60472
+  response: 7E8056211A43EFD
 - expected_values:
-    S5_FUEL_PMP_CMD_DUTY: 28.25156
-  response: 7E8056211A44853
+    S5_FUEL_PMP_CMD_DUTY: 28.53385
+  response: 7E8056211A4490C
 - expected_values:
     S5_FUEL_PMP_CMD_DUTY: 29.61112
   response: 7E8056211A44BCE

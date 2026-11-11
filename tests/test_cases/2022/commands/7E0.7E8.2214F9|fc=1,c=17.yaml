@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S5_MAIN_CAT_OSC_AGE_CORRECTION_FACTOR: 0.68751
   response: 7E8056214F95800
+- expected_values:
+    S5_MAIN_CAT_OSC_AGE_CORRECTION_FACTOR: 0.69532
+  response: 7E8056214F95900

@@ -4,9 +4,6 @@ test_cases:
     S5_GENERATOR_PERFORMANCE: 0
   response: '7E8056210970000'
 - expected_values:
-    S5_GENERATOR_PERFORMANCE: 1998.0576
-  response: 7E80562109700D4
-- expected_values:
     S5_GENERATOR_PERFORMANCE: 2393.8992
   response: 7E80562109700FE
 - expected_values:

@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     S5_PQ35_GEN_LOAD: 0
   response: 7E80562105C0000
+- expected_values:
+    S5_PQ35_GEN_LOAD: 0.12
+  response: 7E80562105C000C
+- expected_values:
+    S5_PQ35_GEN_LOAD: 0.48
+  response: 7E80562105C0030
+- expected_values:
+    S5_PQ35_GEN_LOAD: 0.66
+  response: 7E80562105C0042
+- expected_values:
+    S5_PQ35_GEN_LOAD: 1.56
+  response: 7E80562105C009C
+- expected_values:
+    S5_PQ35_GEN_LOAD: 1.62
+  response: 7E80562105C00A2

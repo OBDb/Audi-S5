@@ -4,11 +4,8 @@ test_cases:
     S5_EOT_MEAS: 25.6
   response: 7E8056216320BAB
 - expected_values:
-    S5_EOT_MEAS: 39.6
-  response: 7E8056216320C37
+    S5_EOT_MEAS: 84.4
+  response: 7E8056216320DF7
 - expected_values:
-    S5_EOT_MEAS: 53.9
-  response: 7E8056216320CC6
-- expected_values:
-    S5_EOT_MEAS: 77.7
-  response: 7E8056216320DB4
+    S5_EOT_MEAS: 86
+  response: 7E8056216320E07

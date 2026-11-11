@@ -4,6 +4,9 @@ test_cases:
     S5_OPEN_CAM_SHFT_ANG: 1
   response: 7E8056210EA000A
 - expected_values:
+    S5_OPEN_CAM_SHFT_ANG: -7.5
+  response: 7E8056210EAFFB5
+- expected_values:
     S5_OPEN_CAM_SHFT_ANG: -7
   response: 7E8056210EAFFBA
 - expected_values:
@@ -12,3 +15,9 @@ test_cases:
 - expected_values:
     S5_OPEN_CAM_SHFT_ANG: -6.4
   response: 7E8056210EAFFC0
+- expected_values:
+    S5_OPEN_CAM_SHFT_ANG: -3.1
+  response: 7E8056210EAFFE1
+- expected_values:
+    S5_OPEN_CAM_SHFT_ANG: -2
+  response: 7E8056210EAFFEC

@@ -5,10 +5,4 @@ test_cases:
   response: 7E8056215C10B56
 - expected_values:
     S5_IAT_BEFORE_THROTTLE: -39.75
-  response: 7E8056215C10B5C
-- expected_values:
-    S5_IAT_BEFORE_THROTTLE: -39.75
-  response: 7E8056215C10B5E
-- expected_values:
-    S5_IAT_BEFORE_THROTTLE: -39.75
-  response: 7E8056215C10B65
+  response: 7E8056215C10BBA

@@ -1,5 +1,32 @@
 command_id: 7E0.7E8.221225
 test_cases:
 - expected_values:
+    S5_TQ_LOSS_ADPT_IDLE: -11
+  response: 7E805621225FF92
+- expected_values:
+    S5_TQ_LOSS_ADPT_IDLE: -10.7
+  response: 7E805621225FF95
+- expected_values:
+    S5_TQ_LOSS_ADPT_IDLE: -10.6
+  response: 7E805621225FF96
+- expected_values:
+    S5_TQ_LOSS_ADPT_IDLE: -10.4
+  response: 7E805621225FF98
+- expected_values:
+    S5_TQ_LOSS_ADPT_IDLE: -10.2
+  response: 7E805621225FF9A
+- expected_values:
+    S5_TQ_LOSS_ADPT_IDLE: -9.4
+  response: 7E805621225FFA2
+- expected_values:
+    S5_TQ_LOSS_ADPT_IDLE: -9.1
+  response: 7E805621225FFA5
+- expected_values:
+    S5_TQ_LOSS_ADPT_IDLE: -7.1
+  response: 7E805621225FFB9
+- expected_values:
+    S5_TQ_LOSS_ADPT_IDLE: -6.4
+  response: 7E805621225FFC0
+- expected_values:
     S5_TQ_LOSS_ADPT_IDLE: -6
   response: 7E805621225FFC4

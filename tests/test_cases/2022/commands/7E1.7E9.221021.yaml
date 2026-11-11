@@ -9,3 +9,18 @@ test_cases:
 - expected_values:
     S5_TCM_DRAG_TQ: 13
   response: 7E905621021000D
+- expected_values:
+    S5_TCM_DRAG_TQ: 17
+  response: '7E9056210210011'
+- expected_values:
+    S5_TCM_DRAG_TQ: 18
+  response: '7E9056210210012'
+- expected_values:
+    S5_TCM_DRAG_TQ: 19
+  response: '7E9056210210013'
+- expected_values:
+    S5_TCM_DRAG_TQ: 44
+  response: 7E905621021002C
+- expected_values:
+    S5_TCM_DRAG_TQ: 71
+  response: '7E9056210210047'

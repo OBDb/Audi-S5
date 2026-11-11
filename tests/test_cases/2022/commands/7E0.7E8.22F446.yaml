@@ -7,5 +7,11 @@ test_cases:
     S5_AAT_7E0_7E0: 17
   response: 7E80462F44639
 - expected_values:
+    S5_AAT_7E0_7E0: 18
+  response: 7E80462F4463A
+- expected_values:
+    S5_AAT_7E0_7E0: 19
+  response: 7E80462F4463B
+- expected_values:
     S5_AAT_7E0_7E0: 215
   response: 7E80462F446FF

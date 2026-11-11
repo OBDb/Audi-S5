@@ -1,8 +1,20 @@
 command_id: 7E1.7E9.221033
 test_cases:
 - expected_values:
+    S5_TIME_SINCE_SHIFT: 120
+  response: '7E90462103304'
+- expected_values:
     S5_TIME_SINCE_SHIFT: 270
   response: '7E90462103309'
+- expected_values:
+    S5_TIME_SINCE_SHIFT: 1380
+  response: 7E9046210332E
+- expected_values:
+    S5_TIME_SINCE_SHIFT: 2670
+  response: '7E90462103359'
+- expected_values:
+    S5_TIME_SINCE_SHIFT: 5370
+  response: 7E904621033B3
 - expected_values:
     S5_TIME_SINCE_SHIFT: 7650
   response: 7E904621033FF

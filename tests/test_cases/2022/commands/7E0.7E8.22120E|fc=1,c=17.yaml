@@ -7,8 +7,8 @@ test_cases:
     S5_KNOCK_SNS_C1_V_MS: 0.03341
   response: 7E80762120E0000AB12
 - expected_values:
-    S5_KNOCK_SNS_C1_V_MS: 0.04528
-  response: 7E80762120E0000E7D7
+    S5_KNOCK_SNS_C1_V_MS: 0.03691
+  response: 7E80762120E0000BCF5
 - expected_values:
     S5_KNOCK_SNS_C1_V_MS: 0.04563
   response: 7E80762120E0000E9A2

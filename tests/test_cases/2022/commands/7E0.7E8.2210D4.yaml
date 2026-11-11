@@ -4,8 +4,26 @@ test_cases:
     S5_INJ_2_RAIL_P_1: 0
   response: 7E8056210D40000
 - expected_values:
+    S5_INJ_2_RAIL_P_1: 0.0002
+  response: 7E8056210D40004
+- expected_values:
     S5_INJ_2_RAIL_P_1: 0.00055
   response: 7E8056210D4000B
 - expected_values:
     S5_INJ_2_RAIL_P_1: 0.0008
   response: 7E8056210D40010
+- expected_values:
+    S5_INJ_2_RAIL_P_1: 0.00145
+  response: 7E8056210D4001D
+- expected_values:
+    S5_INJ_2_RAIL_P_1: 0.0031
+  response: 7E8056210D4003E
+- expected_values:
+    S5_INJ_2_RAIL_P_1: -0.00255
+  response: 7E8056210D4FFCD
+- expected_values:
+    S5_INJ_2_RAIL_P_1: -0.00245
+  response: 7E8056210D4FFCF
+- expected_values:
+    S5_INJ_2_RAIL_P_1: -0.00055
+  response: 7E8056210D4FFF5

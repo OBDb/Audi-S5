@@ -4,11 +4,8 @@ test_cases:
     S5_PQ35_OIL_LVL_CRIT: 11.88
   response: 7E8056211BD0B9A
 - expected_values:
-    S5_PQ35_OIL_LVL_CRIT: 12.164
-  response: 7E8056211BD0BE1
+    S5_PQ35_OIL_LVL_CRIT: 13.296
+  response: 7E8056211BD0CFC
 - expected_values:
-    S5_PQ35_OIL_LVL_CRIT: 12.744
-  response: 7E8056211BD0C72
-- expected_values:
-    S5_PQ35_OIL_LVL_CRIT: 13.128
-  response: 7E8056211BD0CD2
+    S5_PQ35_OIL_LVL_CRIT: 13.428
+  response: 7E8056211BD0D1D

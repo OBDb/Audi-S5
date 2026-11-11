@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221135
 test_cases:
 - expected_values:
+    S5_COOLANT_T: 103.5
+  response: 7E8056211350EB6
+- expected_values:
     S5_COOLANT_T: 104.7
   response: 7E8056211350EC2
 - expected_values:
@@ -9,3 +12,6 @@ test_cases:
 - expected_values:
     S5_COOLANT_T: 104.9
   response: 7E8056211350EC4
+- expected_values:
+    S5_COOLANT_T: 105
+  response: 7E8056211350EC5

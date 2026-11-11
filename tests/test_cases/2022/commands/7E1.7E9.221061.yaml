@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221061
 test_cases:
 - expected_values:
+    S5_DES_TQ_RAW: 0
+  response: '7E9056210610000'
+- expected_values:
     S5_DES_TQ_RAW: -52
   response: 7E905621061FFCC
-- expected_values:
-    S5_DES_TQ_RAW: -48
-  response: 7E905621061FFD0
 - expected_values:
     S5_DES_TQ_RAW: -4
   response: 7E905621061FFFC

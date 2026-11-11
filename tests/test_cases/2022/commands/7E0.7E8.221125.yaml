@@ -4,6 +4,9 @@ test_cases:
     S5_CAM_ADPT_INT_BANK_1: 0
   response: '7E8056211250000'
 - expected_values:
+    S5_CAM_ADPT_INT_BANK_1: -0.24
+  response: 7E805621125FFF4
+- expected_values:
     S5_CAM_ADPT_INT_BANK_1: -0.18
   response: 7E805621125FFF7
 - expected_values:

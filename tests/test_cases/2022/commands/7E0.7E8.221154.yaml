@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     S5_EM_TORQ_2: 196.78125
   response: '7E8056211541899'
+- expected_values:
+    S5_EM_TORQ_2: 196.875
+  response: 7E805621154189C
+- expected_values:
+    S5_EM_TORQ_2: 196.90625
+  response: 7E805621154189D
+- expected_values:
+    S5_EM_TORQ_2: 196.9375
+  response: 7E805621154189E

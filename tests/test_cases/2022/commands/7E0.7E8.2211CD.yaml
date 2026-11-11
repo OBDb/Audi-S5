@@ -2,13 +2,10 @@ command_id: 7E0.7E8.2211CD
 test_cases:
 - expected_values:
     S5_TCO_1_SYS: -40
-  response: 7E8056211CD00E9
+  response: 7E8056211CD0003
 - expected_values:
     S5_TCO_1_SYS: 215
-  response: 7E8056211CDFF40
+  response: 7E8056211CDFF06
 - expected_values:
     S5_TCO_1_SYS: 215
-  response: 7E8056211CDFF49
-- expected_values:
-    S5_TCO_1_SYS: 215
-  response: 7E8056211CDFFB6
+  response: 7E8056211CDFFFA

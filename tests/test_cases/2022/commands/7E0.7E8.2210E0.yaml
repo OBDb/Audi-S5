@@ -12,3 +12,18 @@ test_cases:
 - expected_values:
     S5_ODO: 86365
   response: 7E8076210E00001515D
+- expected_values:
+    S5_ODO: 86370
+  response: 7E8076210E000015162
+- expected_values:
+    S5_ODO: 86371
+  response: 7E8076210E000015163
+- expected_values:
+    S5_ODO: 86372
+  response: 7E8076210E000015164
+- expected_values:
+    S5_ODO: 86373
+  response: 7E8076210E000015165
+- expected_values:
+    S5_ODO: 86374
+  response: 7E8076210E000015166

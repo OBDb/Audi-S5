@@ -1,14 +1,8 @@
 command_id: 7E0.7E8.22105A|fc=1,c=17
 test_cases:
 - expected_values:
-    S5_BATTERY_V: 12320
-  response: 7E80562105A0268
+    S5_BATTERY_V: 12260
+  response: 7E80562105A0265
 - expected_values:
-    S5_BATTERY_V: 14360
-  response: 7E80562105A02CE
-- expected_values:
-    S5_BATTERY_V: 14420
-  response: 7E80562105A02D1
-- expected_values:
-    S5_BATTERY_V: 14500
-  response: 7E80562105A02D5
+    S5_BATTERY_V: 15100
+  response: 7E80562105A02F3
